@@ -1,0 +1,12 @@
+The `cat` command is actually for con-cat-enating files.
+
+It's intended to be used to take multiple files and write the concatenation
+of them to a file.
+
+However, when you type `cat file`, the default behaviour is to take the file
+you specified and write it to your terminal (to the "standard output" stream.)
+
+Try to `cat` this file multiple times:
+$ cat cat cat cat
+
+You should see triple!

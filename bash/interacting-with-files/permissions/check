@@ -1,0 +1,26 @@
+#!/bin/bash
+
+echo "By virtue of having run this file, you successfully completed:"
+cat << EOL
+1. execute the script \`check` by giving it execute permissions using 
+   \`chmod u+x`
+EOL
+
+if [[ -r read-this-file && -w write-this-file ]]; then
+	echo "You did it!"
+else
+	echo "TODO:"
+	if [[ ! -r read-this-file ]]; then
+	cat << EOL
+2. view the contents of the file `read-this-file` by giving yourself read permission
+   using `chmod u+r`
+EOL
+	fi
+
+	if [[ ! -w write-this-file ]]; then
+	cat << EOL
+3. write the contents of the file `write-thisfile` by giving yourself write permission
+   using `chmod u+w`
+EOL
+	fi
+fi

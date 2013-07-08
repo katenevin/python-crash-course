@@ -1,0 +1,28 @@
+#!/bin/bash
+
+newyork="$(find -type d -name "new-york")"
+austin="$(find -type d -name "austin")"
+california="$(find -type d -name "california")"
+
+if [[ $newyork && $austin == "./texas/travis/austin" && ! $california ]]; then
+	echo "You did it!"
+else
+	echo "TODO:"
+	if [[ ! $newyork ]]; then
+		cat << EOL
+1. create a directory called \`new-york' using \`mkdir\`
+EOL
+	fi 
+
+	if [[ $austin != "./texas/travis/austin" ]]; then
+		cat << EOL
+2. create a directory called \`texas/travis/austin\` using \`mkdir -p\`
+EOL
+	fi
+
+	if [[ $california ]]; then
+		cat << EOL
+3. remove a directory called \`california' using \`rm -rf\`
+EOL
+	fi
+fi

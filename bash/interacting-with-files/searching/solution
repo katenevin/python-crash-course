@@ -1,0 +1,28 @@
+#!/bin/bash
+
+# 1. find the file named `Carmen Sandiego' using `find -name'
+
+# find -name 'Carmen Sandiego'
+# # or (to search for just files)
+# find -type f -name 'Carmen Sandiego'
+# # or (to search case-insensitive)
+# find -type f -iname 'carmen sandiego'
+# # or (to search wildcard)
+# find -type f -iname '*carmen*'
+
+# 2. find the subdirectory `tamms' using `find -iname' and move
+#    Carmen to there using `mv'
+
+# find -name 'Tamms'
+# # or (to search for just directories)
+# find -type d -name 'Tamms'
+
+# # then
+
+# mv "./Nebraska/Lincoln/Carmen Sandiego" "./Illinois/Tamms"
+
+# 3. find the file containing `alamo' using `grep -iR' (recursive search,
+#    case-insensitive) and move it to `Texas/San Antonio'
+
+# grep -iR 'alamo' .
+# mv './Montana/Helena/secret-stash' 'Texas/San Antonio'

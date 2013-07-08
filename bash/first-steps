@@ -1,0 +1,128 @@
+#!/bin/bash
+
+clear
+cat << EOL
+Welcome! This is the first part of a Linux & shell basics tutorial.
+
+This tutorial is encoded in shell-scripts in the ~/bash directory.
+
+-------------------------------------------------------------------------------
+
+Now, you've just woken up in an unfamiliar place. The first question you
+should ask yourself (even before "what am I doing here?") is: who am I?
+
+To figure out what user you are currently logged in as, type:
+$ whoami
+EOL
+
+read -e -p "$ " cmd
+while [[ $cmd != 'whoami' ]]; do
+	echo "Come on, you gotta play along!"
+	read -e -p "$ " cmd
+done
+whoami
+
+cat << EOL
+
+-------------------------------------------------------------------------------
+
+With that taken care of, let's figure out what we're doing here.
+
+In running this tutorial you have completed the first objective: you've learnt
+how to run commands from the shell.
+
+You typed:
+$ $0
+
+You don't always have to specify the exact path to the program you want to run.
+
+If the program is in one of the directories in your \`\$PATH', then you can 
+just type its name. \`\$PATH' is a variable that contains a list of directories
+separated by colons (:).
+
+\`echo\` is a bash builtin command that prints the value of an (environmental)
+variable, like your system path.
+
+To see your path for yourself, type: 
+$ echo \$PATH
+
+EOL
+
+read -e -p "$ " cmd
+while [[ $cmd != 'echo $PATH' ]]; do
+	echo "Come on, you gotta play along!"
+	read -e -p "$ " cmd
+done
+echo $PATH
+cat << EOL
+
+-------------------------------------------------------------------------------
+
+The next step of this tutorial will be basic bash commands.
+
+Let's navigate to the directory that contains this tutorial.
+
+\`cd' means \`change directory.' You want to be in the ~/bash directory.
+
+Type:
+$ cd bash
+
+EOL
+
+read -e -p "$ " cmd
+while [[ $cmd != 'cd bash' ]]; do
+	echo "Come on, you gotta play along!"
+	read -e -p "$ " cmd
+done
+cd bash
+cat << EOL
+
+-------------------------------------------------------------------------------
+
+\`pwd' means \`present working directory.' If you're in the right place,
+you should see:
+$HOME/bash
+
+Type:
+$ pwd 
+EOL
+
+read -e -p "$ " cmd
+while [[ $cmd != 'pwd' ]]; do
+	echo "Come on, you gotta play along!"
+	read -e -p "$ " cmd
+done
+pwd
+
+cat << EOL
+
+-------------------------------------------------------------------------------
+
+To see the contents of a file, you can use the \`less\` program. This program
+is often called a "pager" in that can be used to paginate long output.
+
+You will need it to view the README files once you get started.
+
+To exit from the pager, type \`q' for \`quit'
+
+To view the contents of this file, type:
+$ less $0
+EOL
+
+read -e -p "$ " cmd
+while [[ $cmd != "less $0" ]]; do
+	echo "Come on, you gotta play along!"
+	read -e -p "$ " cmd
+done
+less $0
+
+cat << EOL
+
+-------------------------------------------------------------------------------
+
+Fantastic!
+
+Start the next tutorial by typing:
+$ ./help-yourself
+
+EOL

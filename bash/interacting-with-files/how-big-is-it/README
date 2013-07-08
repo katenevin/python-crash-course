@@ -1,0 +1,11 @@
+COMMANDS
+========
+    $ du 
+    $ du -hs 
+    $ du -hsc 
+
+GOALS
+=====
+1. find the biggest directory using `du` (you can also use `du -hs` to
+   summarise findings and print them in a human-readable way; `du -hsc` to also
+   see the totals)

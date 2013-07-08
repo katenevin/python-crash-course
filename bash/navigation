@@ -1,0 +1,187 @@
+#!/bin/bash
+
+cat << EOL
+Covers commands you can use to navigate on the command line:
+$ cd 
+$ cd [directory] 
+$ cd ..
+$ pwd
+$ ls
+$ ls -a
+$ ls -l
+$ ls --color
+$ less
+EOL
+
+read -p "(press enter to begin)"
+clear
+
+cat << EOL
+This tutorial will teach you the basics of navigating on the command line.
+
+This is the last tutorial that will guide you directly.
+
+It will teach you the following commands:
+$ cd
+$ pwd
+$ ls
+
+If you are interested in learning more, you should look into:
+$ dirs
+$ popd
+$ pushd
+
+\`cd'  = \`change directory' = move to a new directory
+\`pwd' = \`present working directory' = where am I right now?
+\`ls'  = \`list files' = what files & folders are in the current directory?
+
+-------------------------------------------------------------------------------
+
+We've created links to view this tutorial in-order or by-topic. We've put those
+links in two folders:
+
+in-order/
+by-topic/
+
+Let's go to the in-order direcory, confirm we're in the right place, then
+view the contents of the directory.
+
+When we're done, we can return to where we started by typing \`cd ..\` to go
+up to the parent directory. Typing \`cd\` by itself will go to our home
+directory.
+
+To start, type:
+$ cd in-order
+EOL
+
+read -e -p "$ " cmd
+eval "$cmd"
+
+cat << EOL
+
+-------------------------------------------------------------------------------
+
+Now, let's confirm we're in the right place. We should be in:
+$HOME/bash/in-order
+
+Type:
+$ pwd
+EOL
+
+read -e -p "$ " cmd
+eval "$cmd"
+
+cat << EOL
+
+-------------------------------------------------------------------------------
+
+Now, let's see what's in this directory. We should see links to all of the
+tutorials listed in the suggested reading order. Each tutorial is a bash
+script that you can run. Past this point, they will stop leading you around
+directly.
+
+Type:
+$ ls
+EOL
+
+read -e -p "$ " cmd
+eval "$cmd"
+
+cat << EOL
+
+-------------------------------------------------------------------------------
+
+\`ls' has an enormous number of options. To see all the options, check
+out the man page by typing \`man ls\`
+
+We'll cover three useful options, which can be mixed-and-matched but which
+we will look at in isolation:
+$ ls -a
+$ ls -l
+$ ls --color
+
+To see all items in a directory, including "hidden" files, type:
+$ ls -a
+EOL
+
+read -e -p "$ " cmd
+eval "$cmd"
+
+cat << EOL
+
+-------------------------------------------------------------------------------
+
+Did you see a hidden file?
+
+In Linux, any file that begins with a period (.) is called a \`dotfile' and is
+considered hidden. It won't show up when you type \`ls\`, but it will show
+up when you type \`ls -a\`.
+
+Other shell features, such as \`globbing,' may treat these files in a special
+way. Check your man-pages for more information.
+
+You'll also see entries for the current directory `.' and for the
+parent directory `..'
+
+To go up one directory to the parent directory, you can type \`cd ..\`
+
+To color-code all items in a directory (directories, regular files, symlinks,
+media files, executables, &c. can all get their own custom coloring), type:
+$ ls --color
+EOL
+
+read -e -p "$ " cmd
+eval "$cmd"
+
+cat << EOL
+
+-------------------------------------------------------------------------------
+
+When you start writing your own programs, you may find yourself seeing 
+\`Permission denied' errors when you try to run them. Similarly, when you
+start navigating the file-system, you may run into the same problem.
+
+To see the permissions of a file, you can use the long-listing format:
+
+Type:
+$ ls -l
+EOL
+
+read -e -p "$ " cmd
+eval "$cmd"
+
+cat << EOL
+
+-------------------------------------------------------------------------------
+
+You should see all the same files as you saw before, but they will be in a 
+format that shows you some additional, useful pieces of information:
+
+-rwxrwxrwx  1  user user 4096 Jul 7 12:00 my-file
+=====1==== =2= ==3= ==4= ==5= =====6===== ===7===
+
+1. This is the permissions for the file. The permissions are split into
+   four sections:
+   i. the first letter denotes whether the file is a symlink, a directory,
+        and whether it has certain bits (sticky, setuid) set
+      the next nine letters are split into three sections denoting the
+        permissions for the file's owner, the file's group owner, and 
+        everyone else
+      r = read permission, w = write permission, x = execute permission
+2. This is the number of hard-links to the file.
+3. This is the file's owner, which is relevant to the permissions above.
+4. This is the file's group owner, which is relevant to the permissions above.
+5. This is the size of the file. Note that in the case of a directory, this
+   is NOT the size of all contained files. You need to use \`du\` for that.
+6. This is the last modified time for the file.
+7. Finally, this is the name of the file.
+
+If you write a Python script and find yourself unable to run it, because
+you're getting a \`Permission denied' error, then you may need to give
+yourself execute permission for that file. Change the permissions
+and owners on a file is covered in a separate tutorial.
+
+-------------------------------------------------------------------------------
+
+You may now move on to the next tutorial in the sequence.
+EOL

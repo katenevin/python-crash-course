@@ -1,0 +1,26 @@
+#!/bin/bash
+
+# 0. (may not be possible without `sudo`): change the user:group of the file
+#    `README` to yourself using `chown`
+
+# chown user:user file
+
+# 1. execute the script `check` by giving it execute permissions using 
+#    `chmod u+x`
+
+# chmod +x check
+# # or (to give just the owner this permission)
+# chmod u+x check
+
+# # by the way, (to take away this permission)
+# chmod u-x check
+
+# 2. view the contents of the file `read-this-file` by giving yourself read permission
+#    using `chmod u+r`
+
+# chmod u+r read-this-file
+
+# 3. write the contents of the file `write-thisfile` by giving yourself write permission
+#    using `chmod u+w`
+
+# chmod u+w write-this-file

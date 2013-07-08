@@ -1,0 +1,14 @@
+`vim` is a much more sophisticated editor that should be distributed with most
+Linux systems.
+
+It is compatible with an older editor called `vi` that may be available on
+older (10 years<) systems.
+
+To write this file to disk, type colon, then w
+:w
+
+To exit, type colon, then q
+:q
+
+For more help, type colon, then help vimtutor
+:help vimtutor

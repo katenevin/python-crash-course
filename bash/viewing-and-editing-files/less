@@ -1,0 +1,8 @@
+`less` is the standard "pager." It can be used to paginate output that is
+longer than what can fit in one screen.
+
+You can search through a file using the `/` key. Try searching for the word "key"
+
+See how the word is highlighted and your screen scrolls to the first use?
+
+You can quit from `less` using the `q` key.
