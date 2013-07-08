@@ -1,0 +1,81 @@
+#!/bin/bash
+
+cat << EOL
+Covers commands you can use to help yourself:
+$ apropos
+$ help
+$ man
+EOL
+
+read -p "(press enter to begin)"
+clear
+
+cat << EOL
+The purpose of this instruction is not only to teach you how to work
+from the Linux shell (bash) but also to teach you how to teach yourself.
+
+There are two commands that will come in handy:
+$ apropos
+$ help 
+$ man 
+
+\`apropos' will help you find the name of a command you're looking for.
+\`help' will give you help for the shell (bash)
+\`man' will give you the manuals of system programs
+
+\`help' by itself should list all of commands built into bash. 
+We will cover the use of only a couple of these.
+
+For an in-depth understanding of bash and shell programming, you should read:
+  http://www.tldp.org/LDP/Bash-Beginners-Guide/html/Bash-Beginners-Guide.html
+  http://www.tldp.org/LDP/abs/html/
+
+Type:
+$ help cd
+EOL
+
+read -e -p "$ " cmd
+eval "$cmd"
+
+cat << EOL
+
+-------------------------------------------------------------------------------
+
+You should see some help text for the \`cd' command.
+
+If you don't know the name of a command, but you want to find it, you can
+turn to Google, or you can try \`apropos'
+
+Say you want to find a command that can convert tabs to spaces.
+
+Type:
+$ apropos "convert tabs"
+EOL
+
+read -e -p "$ " cmd
+eval "$cmd"
+
+cat << EOL
+
+-------------------------------------------------------------------------------
+
+\`apropos' should send you in the direction of:
+expand (1)           - convert tabs to spaces
+
+Say you want to figure out how expand works: what inputs does it require,
+what outputs does it produce, what modes and options does it have.
+
+Type:
+$ man expand
+EOL
+
+read -e -p "$ " cmd
+eval "$cmd"
+
+cat << EOL
+
+-------------------------------------------------------------------------------
+
+Start the next tutorial by typing:
+$ ./navigation
+EOL

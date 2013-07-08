@@ -1,0 +1,43 @@
+#!/bin/bash
+
+maine="$(find maine -type d -empty)"
+niceweather="$(find texas -name "nice-weather" -type d)"
+dodo="$(find -type f -name "dodo")"
+republic="$(find -name "independent-republic-of-texas" -type d)"
+eagle="$(find wyoming montana idaho -type f -name "bald-eagle")"
+
+if [[ $maine && ! $niceweather && ! $dodo && $republic && $eagle ]]; then
+	echo "You did it!"
+else
+	echo "TODO:"
+	if [[ ! $maine ]]; then
+		cat << EOL
+1. move all the files from the subdirectory maine/ to the subdirectory 
+   florida/ using \`mv\`
+EOL
+	fi 
+
+	if [[ $niceweather ]]; then
+		cat << EOL
+2. remove the subdirectory texas/nice-weather using \`rm -rf\`
+EOL
+	fi
+
+	if [[ $dodo ]]; then
+		cat << EOL
+3. remove the file \`dodo' using \`rm\`
+EOL
+	fi
+
+	if [[ ! $republic ]]; then
+		cat << EOL
+4. copy the subdirectory texas/ to independent-republic-of-texas/ using \`cp -r\`
+EOL
+	fi
+
+	if [[ ! $eagle ]]; then
+		cat << EOL
+5. copy the file bald-eagle to wyoming/ montana/ idaho/ using \`cp\`
+EOL
+	fi
+fi

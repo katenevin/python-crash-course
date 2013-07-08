@@ -1,0 +1,24 @@
+#!/bin/bash
+
+carmen="$(find -iname 'carmen sandiego' -type f)"
+stash="$(find -iname 'secret-stash' -type f)"
+
+if [[ $carmen == './Illinois/Tamms/Carmen Sandiego' 
+   && $stash == './Texas/San Antonio/secret-stash' ]]; then
+	echo "You did it!"
+else
+	if [[ $carmen != './Illinois/Tamms/Carmen Sandiego' ]]; then
+	cat << EOL
+1. find the file named \`Carmen Sandiago' using \`find -name'
+2. find the subdirectory \`tamms' using \`find -iname' and move
+   Carmen to there using \`mv'
+EOL
+	fi
+
+	if [[ $stash != './Texas/San Antonio/secret-stash' ]]; then
+	cat << EOL
+3. find the file containing \`alamo' using \`grep -iR' (recursive search,
+   case-insensitive) and move it to \`Texas/San Antonio'
+EOL
+	fi
+fi

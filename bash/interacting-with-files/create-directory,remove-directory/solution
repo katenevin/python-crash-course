@@ -1,0 +1,17 @@
+#!/bin/bash
+
+# uncomment and run
+
+# 1. create a directory called `new-york' using `mkdir`
+
+# mkdir new-york
+
+# 2. create a directory called `texas/travis/austin` using `mkdir -p`
+
+# mkdir -p "texas/travis/austin"
+
+# 3. remove a directory called `california' using `rm -rf`
+
+# rm -rf california
+# # or (safer):
+# rm california -rf

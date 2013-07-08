@@ -1,0 +1,34 @@
+#!/bin/bash
+
+# uncomment and run
+
+# 1. move all the files from the subdirectory maine/ to the subdirectory 
+#    florida/ using `mv`
+
+# mv maine/* florida
+# # or
+# mv maine/hummingbird maine/pintail maine/tern maine/thrush florida
+# # or
+# mv maine/{hummingbird,pintail,tern,thrush} florida
+
+# 2. remove the subdirectory texas/nice-weather using `rm -rf`
+
+# rm -rf texas/nice-weather
+# # or (safer):
+# rm texas/nice-weather -rf
+
+# 3. remove the file `dodo` using `rm`
+
+# rm dodo
+# # or (to suppress an error if the file is already gone)
+# rm dodo -f
+
+# 4. copy the subdirectory texas/ to independent-republic-of-texas/ using `cp -r`
+
+# cp -r texas independent-republic-of-texas
+
+# 5. copy the file bald-eagle to wyoming/ montana/ idaho/ using `cp`
+
+# cp bald-eagle wyoming
+# cp bald-eagle montana
+# cp bald-eagle idaho

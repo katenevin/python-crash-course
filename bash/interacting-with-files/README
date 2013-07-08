@@ -1,0 +1,37 @@
+PURPOSE
+=======
+
+Covers commands you can use to interact with files and directories:
+
+    $ cp
+    $ mv
+    $ rm
+    $ rm -rf
+    $ mkdir
+    $ du
+    $ grep
+    $ find -iname
+    $ chmod
+    $ chown
+
+INSTRUCTIONS
+============
+
+This directory contains a simple puzzle that will demonstrate your ability
+to use basic shell commands to:
+
+1. copy, move, and remove files and directories;
+2. to create directories;
+3. to determine the size of files;
+4. to search for files by name;
+5. to search for files by contents;
+6. and to change ownership and permissions of files.
+
+This is a very hands-off exercise.
+
+There is a sub-directory for each of these tasks.
+
+In that subdirectory, there will be three files:
+1. README: contains the description of what we want to do
+2. check: a shell script that you can run to check your work
+3. solution: a shell script that you can view & run to solve the task

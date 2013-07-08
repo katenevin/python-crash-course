@@ -1,0 +1,16 @@
+PURPOSE
+=======
+
+Covers commands that you can use to view and edit files:
+
+    $ cat
+    $ less
+    $ head
+    $ tail
+    $ nano
+    $ vim
+
+INSTRUCTIONS
+============
+
+Use the corresponding command to interact with each file.

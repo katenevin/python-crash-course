@@ -1,0 +1,32 @@
+If you `tail -n +2` this file, you won't see this line or the line above.
+
+If you `tail -n -2` this file, it will behave just like `head` or `tail -n 2`
+
+`tail` seems like a strict analogue to `head`, and it can be used in this way.
+
+However, `tail` has one very useful mode that `head` does not: `tail -f`
+
+If you have a log file that is being written to, you can `follow` these writes
+with `tail -f` on the log file. `tail` will print the last ten lines of the file
+then it will print every subsequent written line to the file.
+
+If you `tail -n 20` this file, you will see the LAST 20 lines, which should
+be all the previous text, plus the text down to/up to here. Try `tail -n +2`
+
+
+
+(Note that this file is somewhat out of order, since we're assuming that you're
+using `tail` to view it.)
+
+
+
+Look at `head` first.
+
+If you `tail` this file, you will see the last 10 lines. 
+That should be the text down to...
+...
+...
+...
+...
+...
+here. Try `tail -n 20`

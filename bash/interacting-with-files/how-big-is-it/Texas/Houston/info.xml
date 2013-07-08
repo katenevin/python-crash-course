@@ -1,0 +1,747 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <base>http://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.22wmf8</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Houston</title>
+    <ns>0</ns>
+    <id>13774</id>
+    <revision>
+      <id>563063840</id>
+      <parentid>563063578</parentid>
+      <timestamp>2013-07-06T04:53:46Z</timestamp>
+      <contributor>
+        <username>Isawooty</username>
+        <id>9375501</id>
+      </contributor>
+      <comment>Undid revision 563063578 by [[Special:Contributions/Isawooty|Isawooty]] ([[User talk:Isawooty|talk]])</comment>
+      <text xml:space="preserve" bytes="109872">{{About|the U.S. city}}
+{{Use mdy dates|date=August 2011}}
+{{Infobox settlement
+|name                     = Houston
+|official_name            = City of Houston
+|settlement_type          = City
+|nickname                 = &lt;!--DO NOT CHANGE!!! --&gt;Space City (official), &lt;small&gt;[[Nicknames of Houston|more. . .]]&lt;/small&gt;&lt;!--Please list unofficial nicknames in Culture Section. See discussion on talk page. Thank you. --&gt;
+|image_skyline            = Houston montage.jpg
+|imagesize                =
+|image_caption            =
+|image_flag               = Flag of Houston, Texas.svg
+|image_seal               = Seal of Houston, Texas.png
+|image_map                = Harris County Houston.svg
+|mapsize                  = 250px
+|map_caption              = Location of Houston city limits in and around Harris County
+|image_map1               =
+|map_caption1             =
+|pushpin_map=USA
+|pushpin_map_caption=Location in the United States of America
+|coordinates_region       = US-TX
+|subdivision_type         = [[List of sovereign states|Country]]
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_type2        = [[List of counties in Texas|Counties]]
+|subdivision_name         = {{flag|United States of America}}
+|subdivision_name1        = {{flag|Texas}}
+|subdivision_name2        = {{nowrap|[[Harris County, Texas|Harris]], [[Fort Bend County, Texas|Fort&amp;nbsp;Bend]], [[Montgomery County, Texas|Montgomery]]}}
+|government_type          = [[Mayor–council government|Mayor–council]]
+|leader_title             = [[List of mayors of Houston|Mayor]]
+|leader_name              = [[Annise Parker]]
+|area_magnitude           = 1 E8
+|unit_pref                = Imperial
+|area_metro_sq_mi         = 10062
+|area_total_sq_mi         = 627.8   
+|area_total_km2           = 1625.2
+|area_land_km2            = 1552.9
+|area_land_sq_mi          = 599.59
+|area_water_sq_mi         = 27.9
+|area_water_km2           = 72.3
+|population_as_of         = 2012 US Census
+|population_footnotes     =&lt;ref name=&quot;2008Estimate&quot;/&gt;&lt;ref&gt;{{cite web | title = Texas by Place - GCT-T1-R. Census | work=US Census | accessdate = 2010-01-03 | url = http://factfinder.census.gov/servlet/GCTTable?-ds_name=PEP_2008_EST&amp;-mt_name=PEP_2008_EST_GCTT1R_ST9S&amp;-geo_id=04000US48&amp;-format=ST-9&amp;-tree_id=806&amp;-context=gct}}&lt;/ref&gt;
+|population_total         = 2160821	&lt;small&gt;([[List of United States cities by population|4th U.S.]])&lt;/small&gt;
+|population_urban         = 4944332 &lt;small&gt;([[List of United States urban areas|7th U.S.]])&lt;/small&gt;
+|population_metro         = 6177035 &lt;small&gt;([[Table of United States Metropolitan Statistical Areas|5th U.S.]])&lt;/small&gt;
+|population_note          =
+|population_density_sq_mi = 3,623
+|population_density_km2   = 1,505
+|population_blank1_title = [[Demonym]]
+|population_blank1 = Houstonian
+|timezone                 = [[North American Central Time Zone|CST]]
+|utc_offset               = -6
+|timezone_DST             = [[North American Central Time Zone|CDT]]
+|utc_offset_DST           = -5
+|postal_code_type         =
+|postal_code              =
+|area_code                = [[Area code 713|713]], [[Area code 281|281]], [[Area code 832|832]], [[Area code 346|346]]
+|latd = 29 |latm = 45 |lats = 46 |latNS = N
+|longd = 95 |longm = 22 |longs = 59 |longEW =W|coordinates_display=0
+|elevation_m              = 13
+|elevation_ft             = 43
+|established_title        = [[Municipal corporation|Incorporated]]
+|established_date         = June 5, 1837
+|blank_name               = [[Federal Information Processing Standard|FIPS code]]
+|blank_info               = 48-35000{{GR|2}}
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature ID
+|blank1_info              = 1380948{{GR|3}}
+|website                  = [http://www.houstontx.gov/ houstontx.gov]
+|footnotes                =
+}}
+'''Houston''' {{IPAc-en|ˈ|h|juː|s|t|ən}} is the fourth [[List of United States cities by population|most populous]] city in the United States of America, and the most populous city in the [[U.S. state]] of [[Texas]]. According to the 2010 U.S. Census, the city had a population of over 2.1 million people within a land area of {{convert|599.6|sqmi|km2}}.&lt;ref name=&quot;2008Estimate&quot;&gt;{{cite web | title = Houston city, Texas, U.S. Census|work=U.S. Census | accessdate = 2010-01-02 | url = http://factfinder.census.gov/servlet/SAFFPopulation?_event=ChangeGeoContext&amp;geo_id=16000US4835000&amp;_geoContext=01000US%7C04000US48%7C16000US4835000&amp;_street=&amp;_county=Houston%2C+Tx&amp;_cityTown=Houston2C+Tx&amp;_state=&amp;_zip=&amp;_lang=en&amp;_sse=on&amp;ActiveGeoDiv=geoSelect&amp;_useEV=&amp;pctxt=fph&amp;pgsl=010&amp;_submenuId=population_0&amp;ds_name=null&amp;_ci_nbr=null&amp;qr_name=null&amp;reg=null%3Anull&amp;_keyword=&amp;_industry=link}}&lt;/ref&gt;&lt;ref&gt;{{Cite journal | contribution = Population Finder | title = American Fact Finder | publisher=U.S. Census Bureau | year = 2009| id = | contribution-url = http://factfinder.census.gov/servlet/SAFFPopulation?_event=ChangeGeoContext&amp;geo_id=16000US4835000&amp;_geoContext=01000US%7C04000US48%7C16000US4835000&amp;_street=&amp;_county=Houston%2C+Tx&amp;_cityTown=Houston2C+Tx&amp;_state=&amp;_zip=&amp;_lang=en&amp;_sse=on&amp;ActiveGeoDiv=geoSelect&amp;_useEV=&amp;pctxt=fph&amp;pgsl=010&amp;_submenuId=population_0&amp;ds_name=null&amp;_ci_nbr=null&amp;qr_name=null®=null%3Anull&amp;_keyword=&amp;_industry=link | accessdate = 2010-07-25}}&lt;/ref&gt;  Houston is the seat of [[Harris County, Texas|Harris&amp;nbsp;County]] and the economic center of {{nowrap|[[Greater Houston|Houston–The Woodlands-Sugar Land]]}}, the {{nowrap|fifth-largest}} metropolitan area in the U.S. with over 6&amp;nbsp;million people.&lt;ref&gt;{{Cite journal | title = Table of United States Metropolitan Statistical Areas  | url = http://en.wikipedia.org/wiki/Table_of_United_States_Metropolitan_Statistical_Areas}}&lt;/ref&gt;
+
+Houston was founded in 1836 on land near the banks of [[Buffalo Bayou]], now known as [[Allen's Landing]].&lt;ref name=&quot;Allen's Landing&quot;&gt;{{Handbook of Texas | author=Kleiner, D.J | name=Allen's Landing | id=AA/hvabg| retrieved=2007-06-10|date=2005-02-03}}&lt;/ref&gt;&lt;ref name=HouHTO&gt;{{cite web|accessdate=2008-06-01
+|url= http://www.tshaonline.org/handbook/online/articles/hdh03
+|title=Houston, Texas
+|date=January 19, 2008
+|author=McComb, David G.
+|work=Handbook of Texas Online
+|archiveurl = http://web.archive.org/web/20080414054125/http://www.tshaonline.org/handbook/online/articles/HH/hdh3.html &lt;!-- Bot retrieved archive --&gt; |archivedate = 2008-04-14}}&lt;/ref&gt; and incorporated as a city on June 5, 1837. The city was named after former General [[Sam Houston]], who was president of the [[Republic of Texas]] and had commanded and won at the [[Battle of San Jacinto]] {{convert|25|mi|km}} east of where the city was established. The burgeoning port and railroad industry, combined with oil discovery in 1901, has induced continual surges in the city's population. In the mid-twentieth century, Houston became the home of the [[Texas Medical Center]]—the world's largest concentration of healthcare and research institutions—and NASA's [[Lyndon B. Johnson Space Center|Johnson Space Center]], where the [[Christopher C. Kraft Jr. Mission Control Center|Mission Control Center]] is located.&lt;ref&gt;Texas Medical Center. (2006). In 'A Vision for Strategic Growth'. September 14, 2010 from http://www.texasmedicalcenter.org/NR/rdonlyres/2C814975-2A2B-4AC1-B898-0C424A311C28/0/50YearMasterPlanLowRes2006UpdateV2.pdf&lt;/ref&gt;
+
+Rated as a global city, Houston's economy has a broad industrial base in energy, manufacturing, aeronautics, and transportation. It is also leading in health care sectors and building oilfield equipment; only [[New York City]] is home to more [[Fortune&amp;nbsp;500]] headquarters.&lt;ref&gt;[http://money.cnn.com/magazines/fortune/fortune500/2011/cities/ ''Fortune'' 500 2010: Cities] Accessed May 25, 2011&lt;/ref&gt;&lt;ref name=&quot;kearney&quot;&gt;{{cite web | title = A.T. Kearney Global Cities Index 2010 | work=A.T. Kearney | accessdate = 2011-05-25
+| url = http://www.atkearney.com/images/global/pdf/Urban_Elite-GCI_2010.pdf}}&lt;/ref&gt; The [[Port of Houston]] ranks first in the United States in international waterborne tonnage handled and second in total cargo tonnage handled.&lt;ref name=&quot;port ranking&quot;&gt;{{cite web | title = 2010 Port Industry Statistics, American Association of Port Authorities | url = http://aapa.files.cms-plus.com/Statistics/2010%20U%2ES%2E%20PORT%20RANKINGS%20BY%20CARGO%20TONNAGE.pdf}}&lt;/ref&gt; The city has a population from various ethnic and religious backgrounds and a large and growing international community. It is home to many cultural institutions and exhibits, which attract more than 7&amp;nbsp;million visitors a year to the [[Houston Museum District|Museum&amp;nbsp;District]]. Houston has an active visual and performing arts scene in the [[Houston Theater District|Theater&amp;nbsp;District]] and offers year-round resident companies in all major performing arts.&lt;ref name = &quot;ikvngd&quot;&gt;&quot;{{PDFlink|[http://www.houston.org/pdf/research/20AW005.pdf Museums and Cultural Arts]|31.8&amp;nbsp;KB}}&quot;, ''Greater Houston Partnership''. Retrieved on 2009-03-21.&lt;/ref&gt;
+{{tocleft}}{{clear}}
+
+== History ==
+{{Main|History of Houston}}
+{{See also|Historical events of Houston}}
+[[Image:samuel houston.jpg|150px|thumb|[[Sam Houston]]]]
+In August 1836, two real estate entrepreneurs—[[Augustus Chapman Allen]] and [[John Kirby Allen]]—from New&amp;nbsp;York, purchased {{convert|6642|acre|km2}} of land along [[Buffalo Bayou]] with the intent of founding a city.&lt;ref name=&quot;Coutinho&quot;&gt;{{cite news|title=Brief history of Houston|last=Coutinho|first=Juliana|url=http://www.stp.uh.edu/vol66/13/news/news-index.html|work=[[The Daily Cougar]]|date=2000-09-13|accessdate=2007-02-06}}&lt;/ref&gt; The Allen brothers decided to name the city after [[Sam Houston]], the popular general at the [[Battle of San Jacinto]],&lt;ref name=&quot;Coutinho&quot;/&gt; who was elected President of Texas in September 1836.
+
+Houston was granted incorporation on June 5, 1837, with [[James Sanders Holman|James S. Holman]] becoming its first mayor.&lt;ref name=&quot;Handbook of TX-HOU&quot;&gt;[http://www.tshaonline.org/handbook/online/articles/hdh03 Houston, Texas]. ''[[Handbook of Texas]] Online''. Retrieved on 2007-01-10.&lt;/ref&gt; In the same year, Houston became the county seat of Harrisburg County (now Harris County) and the temporary capital of the [[Republic of Texas]].&lt;ref name = &quot;SHQa4&quot;&gt;{{cite journal
+ | last = Looscan
+ | first = Adele B.
+ | title = Harris County, 1822–1845
+ | journal=Southwestern Historical Quarterly
+ | volume = 19
+ | pages = 37–64
+ | year= 1916
+ | url = http://www.tshaonline.org/publications/journals/shq/online/v019/n1/article_4.html
+ | accessdate = 2007-02-07}}&lt;/ref&gt; In 1840, the community established a chamber of commerce in part to promote shipping and waterborne business at the newly created port on Buffalo Bayou.&lt;ref&gt;[http://www.houstontx.gov/savvy/archives/sum06/sum06_heritage.htm Born on the Bayou: city's murky start]. John Perry, City Savvy Online Edition. Published Summer 2006. Retrieved on 2007-02-06.&lt;/ref&gt;
+[[Image:Old map-Houston-1873.jpg|thumb|left|Houston, circa 1873]]
+By 1860, Houston had emerged as a commercial and railroad hub for the export of cotton.&lt;ref name=&quot;SHQa4&quot; /&gt; Railroad spurs from the Texas inland converged in Houston, where they met rail lines to the ports of [[Galveston, Texas|Galveston]] and [[Beaumont, Texas|Beaumont]]. During the [[American Civil War]], Houston served as a headquarters for General [[John B. Magruder|John Bankhead Magruder]], who used the city as an organization point for the [[Battle of Galveston]].&lt;ref name=&quot;Sabine&quot;&gt;{{cite book|last=Cotham|first=Edward T.|title=Sabine Pass: The Confederacy's Thermopylae|year=2004|publisher=[[University of Texas Press]]|location=Austin, Texas|isbn=0-292-70594-8}}&lt;/ref&gt; After the Civil War, Houston businessmen initiated efforts to widen the city's extensive system of bayous so the city could accept more commerce between downtown and the nearby port of Galveston. By 1890, Houston was the railroad center of Texas.[[File:Union Station, Houston, Texas.jpg|thumb|Union Station, Houston, Texas (postcard, circa 1911)]]
+
+In 1900, after Galveston was struck by a devastating [[Galveston Hurricane of 1900|hurricane]], efforts to make Houston into a viable deepwater port were accelerated.&lt;ref&gt;[http://www.tsl.state.tx.us/governors/rising/sayers-galv.html J.H.W. Stele to Sayers, September 11–12, 1900]. ''Texas State Library &amp; Archives Commission'', Retrieved on August 31, 2007&lt;/ref&gt; The following year, oil discovered at the [[Spindletop]] [[oil field]] near Beaumont prompted the development of the Texas petroleum industry.&lt;ref&gt;{{cite book|title=Oil in Texas: The Gusher Age, 1895–1945|last=Olien|first=Diana Davids|coauthors=Olien, Roger M.|year=2002|publisher=University of Texas Press|location=Austin, Texas|isbn=0-292-76056-6}}&lt;/ref&gt; In 1902, President [[Theodore Roosevelt]] approved a $1&amp;nbsp;million improvement project for the Houston Ship Channel. By 1910 the city's population had reached 78,800, almost doubling from a decade before. African-Americans formed a large part of the city's population, numbering 23,929 people, or nearly one-third of the residents.&lt;ref&gt;{{cite web|url=http://www.houstonhistory.com/decades/history5h.htm|title=Marvin Hurley, 1910–1920, Houston History|accessdate=2008-04-06}}&lt;/ref&gt; 
+
+President [[Woodrow Wilson]] opened the deepwater Port of Houston in 1914, seven years after digging began. By 1930, Houston had become Texas's most populous city and Harris the most populous county.&lt;ref&gt;{{cite journal
+ | last = Gibson
+ | first = Campbell
+ | title = Population of the 100 Largest Cities and Other Urban Places in the United States: 1790 to 1990
+ | journal=Population Division, U.S. Census Bureau
+ | publisher=U.S. Census Bureau
+ | month= June | year= 1998
+ | url = http://www.census.gov/population/www/documentation/twps0027.html
+ | accessdate = 2007-02-06}}&lt;/ref&gt; In 1940, the Census Bureau reported Houston's population as 77.5% white and 22.4% black.&lt;ref name=&quot;census1&quot;/&gt;
+
+[[File:Downtown Houston TX 1927.jpg|thumb|Downtown Houston, circa 1927]]
+
+When [[United States home front during World  War II|World War II]] started, tonnage levels at the port decreased and shipping activities were suspended; however, the war did provide economic benefits for the city. Petrochemical refineries and manufacturing plants were constructed along the ship channel because of the demand for petroleum and synthetic rubber products during the war.&lt;ref&gt;{{cite web
+ | title = Houston Ship Channel
+ | work=TSHA Handbook of Texas
+ | url = http://www.tshaonline.org/handbook/online/articles/rhh11
+ | accessdate = 2007-02-18}}&lt;/ref&gt; [[Ellington Airport (Texas)|Ellington Field]], initially built during [[World War I]], was revitalized as an advanced training center for bombardiers and navigators.&lt;ref&gt;{{cite web
+ | last = Carlson
+ | first = Erik
+ | title = Ellington Field: A Short History, 1917–1963
+ | work=National Aeronautics and Space Administration
+ | month= February | year= 1999
+ | url = http://www.jsc.nasa.gov/history/ellington/Ellington.pdf
+ | accessdate = 2007-02-18|format=PDF}}&lt;/ref&gt; The [[Brown Shipbuilding Company]] was founded in 1942 to build ships for the [[U.S. Navy]] during World War II. The M.D. Anderson Foundation formed the [[Texas Medical Center]] in 1945. After the war, Houston's economy reverted to being primarily port-driven. In 1948, several unincorporated areas were annexed into the city limits, which more than doubled the city's size, and Houston proper began to spread across the region.&lt;ref name=&quot;Handbook of TX-HOU&quot;/&gt;&lt;ref&gt;{{cite web
+ | last = Streetman
+ | first = Ashley
+ | title = Houston Timeline
+ | work=Houston Institute for Culture
+ | url = http://www.houstonculture.org/resources/houstontime.html
+ | accessdate = 2007-02-06}}&lt;/ref&gt;
+
+In 1950, the availability of air conditioning provided impetus for many companies to relocate to Houston resulting in an economic boom and producing a key shift in the city's economy toward the energy sector.&lt;ref&gt;[http://www.oldhouseweb.com/stories/Detailed/725.shtml How Air Conditioning Changed America]. ''The Old House Web'', Retrieved on April 4, 2007&lt;/ref&gt;&lt;ref&gt;[http://www.hgs.org/en/articles/printview.asp?26 A Short History]. ''Houston Geological Auxiliary'', Retrieved on April 4, 2007&lt;/ref&gt; [[File:Ashburn's Houston City Map.jpg|thumb|Ashburn's Houston City Map (circa 1956)]]
+
+[[Image:Challenger Ferry Flight Flyover of Lyndon B. Johnson Space Center.jpg|thumb|300px|left|The space shuttle, atop its Boeing 747 [[Shuttle Carrier Aircraft|SCA]], flying over [[Johnson Space Center]]]]
+The increased production of the local shipbuilding industry during World War II spurred Houston's growth,&lt;ref&gt;{{cite web
+ | title = Shipbuilding
+ | work=TSHA Handbook of Texas
+ | url = http://www.tshaonline.org/handbook/online/articles/ets03
+ | accessdate = 2007-02-18}}&lt;/ref&gt; as did the establishment in 1961 of NASA's &quot;Manned Spacecraft Center&quot; (renamed the [[Lyndon B. Johnson Space Center]] in 1973), which created the city's aerospace industry. The [[Reliant Astrodome|Astrodome]], nicknamed the &quot;[[Eighth Wonder of the World]]&quot;,&lt;ref&gt;{{cite journal
+ | last = Barks
+ | first = Joseph V.
+ | title = Powering the (New and Improved) &quot;Eighth Wonder of the World&quot;
+ | work=Electrical Apparatus
+ | date= November 2001}}&lt;/ref&gt; opened in 1965 as the world's first indoor domed sports stadium.
+
+During the late 1970s, Houston experienced a population boom as people from [[Rust Belt]] states moved to Texas in large numbers.&lt;ref&gt;{{cite web | url=http://www.texasalmanac.com/culture/groups/polish.html | title=Polish-Texans | work=Texas Almanac 2004–2005 | accessdate=2007-02-06}}&lt;/ref&gt; The new residents came for the numerous employment opportunities in the petroleum industry, created as a result of the [[1973 oil crisis|Arab Oil Embargo]].
+
+The population boom ended abruptly in the mid-1980s, as oil prices fell precipitously. The space industry also suffered in 1986 after the [[Space Shuttle Challenger disaster|Space Shuttle Challenger]] disintegrated shortly after launch. The late 1980s saw a recession adversely affecting the city's economy.
+
+Since the 1990s, as a result of the recession, Houston has made efforts to diversify its economy by focusing on aerospace and health care/biotechnology and by reducing its dependence on the petroleum industry. In 1997, Houstonians elected [[Lee P. Brown]] as the city's first African American mayor.&lt;ref&gt;{{cite web | url=http://www.thehistorymakers.com/biography/biography.asp?bioindex=937&amp;category=politicalMakers | title=Lee P. Brown - Biography | work=TheHistoryMakers.com | accessdate=2007-01-22}}&lt;/ref&gt;
+
+In June 2001, [[Tropical Storm Allison]] dumped up to {{convert|40|in|mm}} of rain on parts of Houston, causing the worst flooding in the city's history; the storm cost billions of dollars in damage and killed 20 people in Texas.&lt;ref&gt;{{cite news|title=Allison's Death Toll Hits 43|last=Ward|first=Christina|url=http://www.redcross.org/news/ds/floods/010618houston.html|work=RedCross.org|date=2001-06-18|accessdate=2007-01-01|archiveurl=http://web.archive.org/web/20061204040810/http://www.redcross.org/news/ds/floods/010618houston.html &lt;!--Added by H3llBot--&gt;|archivedate=December 4, 2006}}&lt;/ref&gt; By December of that same year, Houston-based energy company [[Enron]] collapsed into the third-largest ever U.S. bankruptcy during an investigation surrounding fabricated partnerships that were allegedly used to hide debt and inflate profits.
+
+In August 2005, Houston became a shelter to more than 150,000 people from New Orleans who evacuated from [[Hurricane Katrina]].&lt;ref&gt;{{cite news
+ | title = Katrina's Human Legacy
+ | work=Houston Chronicle
+ | date= 2006-08-27
+ | url = http://www.chron.com/CDA/archives/archive.mpl?id=2006_4178618
+ | accessdate = 2007-08-29}}&lt;/ref&gt; One month later, approximately 2.5&amp;nbsp;million Houston area residents evacuated when [[Hurricane Rita]] approached the [[Gulf Coast of the United States|Gulf Coast]], leaving little damage to the Houston area. This was the largest urban evacuation in the history of the United States.&lt;ref&gt;{{cite news
+ | last = Flakus
+ | first = Greg
+ | title = Recovery Beginning in Areas Affected by Hurricane Rita
+ | work=Voice of America News
+ | date= 2005-09-25
+ | url = http://www.voanews.com/english/archive/2005-09/2005-09-25-voa33.cfm
+ | accessdate = 2007-01-10}}&lt;/ref&gt;&lt;ref&gt;[http://www.house.gov/brady/2007_appropriations.shtml 8th Congressional District of Texas 2007 Appropriations Project Requests]. Congressman Kevin Brady, 8th District of Texas. Retrieved on 2007-01-10.&lt;/ref&gt;
+{{clear}}
+
+== Geography ==
+{{Main|Geography of Houston}}
+
+[[Image:Large Houston Landsat.jpg|thumb|A simulated-color image of Houston]]
+
+According to the [[United States Census Bureau]], the city has a total area of {{convert|656.3|sqmi|km2}}; this comprises {{convert|634.0|sqmi|km2}} of land and {{convert|22.3|sqmi|km2}} of water.&lt;ref&gt;[http://quickfacts.census.gov/qfd/states/48/4835000.html Houston (city) QuickFacts from the US Census Bureau]. U.S. Census Bureau. Retrieved on 2009-02-28.&lt;/ref&gt;
+Most of Houston is located on the [[Western Gulf coastal grasslands|gulf coastal plain]], and its vegetation is classified as temperate grassland and forest. Much of the city was built on forested land, marshes, swamp, or [[prairie]], which are all still visible in surrounding areas. Flatness of the local terrain, when combined with [[urban sprawl]], has made flooding a recurring problem for the city.&lt;ref&gt;[http://www.crwr.utexas.edu/gis/gishyd98/class/trmproj/ahrens/prepro.htm Flood Forecasting for the Buffalo Bayou Using CRWR-PrePro and HEC-HMS]. ''Center for Research in Water Resources, The University of Texas at Austin'' Retrieved on 2007-01-10.&lt;/ref&gt; Downtown stands about {{convert|50|ft|m}} above sea level,&lt;ref&gt;[http://www.topoquest.com/map.asp?lat=29.75737&amp;lon=-95.36387&amp;size=m&amp;u=4&amp;datum=nad27&amp;layer=DRG&amp;s=100 Downtown Houston, Texas]. ''TopoQuest.com'' Retrieved on 2008-07-05.&lt;/ref&gt; and the highest point in far northwest Houston is about {{convert|125|ft|m}} in elevation.&lt;ref&gt;[http://www.topoquest.com/map.asp?lat=29.96645&amp;lon=-95.56326&amp;size=l&amp;datum=nad83&amp;layer=DRG&amp;s=100 USGS Satsuma (TX) Topo Map]. ''TopoQuest.com''. 2008. Retrieved on 2008-07-05. '''''Note:''''' ''The boundaries of the City of Houston are shown as &quot;HOUSTON CORP BDY&quot; along the dotted line.''&lt;/ref&gt;&lt;ref&gt;[http://www.houstontx.gov/superneighborhoods/profiles/SN_1.htm Super Neighborhood# 1-Willowbrook]. ''City of Houston''. Retrieved on 2012-05-15.&lt;/ref&gt; The city once relied on groundwater for its needs, but land [[subsidence]] forced the city to turn to ground-level water sources such as [[Lake Houston|Lake&amp;nbsp;Houston]], [[Lake Conroe]] and [[Lake Livingston]].&lt;ref name=&quot;Handbook of TX-HOU&quot;/&gt;&lt;ref name=&quot;USGS_Subsidence_Fault_Creep&quot;&gt;{{PDFlink|[http://pubs.usgs.gov/circ/circ1182/pdf/07Houston.pdf HOUSTON-GALVESTON, TEXAS Managing Coastal Subsidence]|5.89&amp;nbsp;MB}}. ''[[United States Geological Survey]]''. Retrieved on 2007-01-11.&lt;/ref&gt;  The city owns surface water rights for 1.20 billion gallons of water a day in addition to 150 million gallons a day worth of groundwater.&lt;ref&gt;[http://www.publicworks.houstontx.gov/utilities/drinkingwater.html Drinking Water Operations&lt;!-- Bot generated title --&gt;]&lt;/ref&gt;
+
+Houston has four major bayous passing through the city. [[Buffalo Bayou]] runs through downtown and the [[Houston Ship Channel]], and has three tributaries: [[White Oak Bayou]], which runs through the Houston&amp;nbsp;Heights community northwest of Downtown and then towards Downtown; Braes&amp;nbsp;Bayou, which runs along the Texas Medical Center; and Sims Bayou, which runs through the south of Houston and downtown Houston. The ship channel continues past Galveston and then into the [[Gulf of Mexico]].
+
+=== Geology ===
+Underpinning Houston's land surface are [[Consolidation (geology)|unconsolidated]] clays, clay shales, and poorly cemented sands up to several miles deep. The region's geology developed from river deposits formed from the erosion of the [[Rocky Mountains]]. These [[sediment]]s consist of a series of sands and clays deposited on decaying organic marine matter, that over time, transformed into oil and natural gas. Beneath the layers of sediment is a water-deposited layer of [[halite]], a rock salt. The porous layers were compressed over time and forced upward. As it pushed upward, the salt dragged surrounding sediments into [[salt dome]] formations, often trapping oil and gas that seeped from the surrounding porous sands. The thick, rich, sometimes black, surface soil is suitable for rice farming in suburban outskirts where the city continues to grow.&lt;ref&gt;[http://www.tshaonline.org/handbook/online/articles/hch07 Harris County]. ''[[Handbook of Texas]] Online.'' Retrieved on 2007-01-10.&lt;/ref&gt;&lt;ref&gt;[http://www.tshaonline.org/handbook/online/articles/afr01 RICE CULTURE]. ''[[Handbook of Texas]] Online.'' Retrieved on 2007-01-10.&lt;/ref&gt;
+
+The Houston area has over 150 active [[Fault (geology)|faults]] (estimated to be 300 active faults) with an aggregate length of up to {{convert|310|mi|km}},&lt;ref&gt;{{cite web | title = Mapping Active Faults in the Houston Area using LIDAR Data, #50034 (2006)| accessdate = 2010-07-10 |author=R. Engelkemeir |work=Online Journal for E&amp;P Geoscientists | url = http://www.searchanddiscovery.net/documents/2006/06078engelkemeir/index.htm?q=%2Btext%3A%22active+faults+houston+area%22+-isMeetingAbstract%3Amtgabsyes}}&lt;/ref&gt;&lt;ref&gt;Earl R. Verbeek, Karl W. Ratzlaff, Uel S. Clanton. &quot;[http://pubs.usgs.gov/mf-maps/mf1136/mf1136/ Faults in Parts of North-Central and Western Houston Metropolitan Area, Texas]&quot;, ''[[United States Geological Survey]]'', 2005-09-16. Retrieved on 2006-12-14.&lt;/ref&gt;&lt;ref&gt;Sachin D. Shah and Jennifer Lanning-Rush. [http://pubs.usgs.gov/sim/2005/2874/ Principal Faults in the Houston, Texas, Metropolitan Area], ''U.S. Geological Survey''. Retrieved on 2012-02-23.&lt;/ref&gt; including the [[Long Point–Eureka Heights fault system]] which runs through the center of the city. There have been no significant historically recorded earthquakes in Houston, but researchers do not discount the possibility of such quakes having occurred in the deeper past, nor occurring in the future. Land in some areas southeast of Houston is sinking because water has been pumped out of the ground for many years. It may be associated with slip along the faults; however, the slippage is slow and not considered an earthquake, where stationary faults must slip suddenly enough to create seismic waves.&lt;ref&gt;[http://web.archive.org/web/20070715065340/http://www.ig.utexas.edu/research/projects/eq/faq/tx.htm Texas Earthquakes], ''University of Texas Institute for Geophysics'', July 2001. Retrieved on 2007-08-29.&lt;/ref&gt; These faults also tend to move at a smooth rate in what is termed &quot;[[Aseismic creep|fault creep]]&quot;,&lt;ref name=&quot;USGS_Subsidence_Fault_Creep&quot; /&gt; which further reduces the risk of an earthquake.
+
+=== Climate ===
+{{Main|Climate of Houston}}
+[[Image:Allison Flood Houston.jpg|thumb|left|[[Allen's Landing]] after [[Tropical Storm Allison]], June 2001]]
+
+Houston's climate is classified as [[humid subtropical climate|humid&amp;nbsp;subtropical]] (''Cfa'' in [[Humid temperate climate|Köppen climate classification system]]). While not necessarily part of &quot;[[Tornado Alley]]&quot; like much of the rest of Texas, spring [[Supercell|supercell thunderstorms]] do sometimes bring tornadoes to the area. Prevailing winds are from the south and southeast during most of the year, bringing heat from the western deserts and moisture from the [[Gulf of Mexico]].&lt;ref&gt;{{cite web
+| title = Weather Stats
+| work=Greater Houston Convention and Visitors Bureau
+| accessdate = 2008-10-11
+| url = http://www.visithoustontexas.com/media/statistics/Houston_Stats_Weather
+}}&lt;/ref&gt;
+
+During the summer months, it is common for the temperature to reach over {{convert|90|°F|°C|abbr=on}}, with an average of 99&amp;nbsp;days per year above {{convert|90|°F|°C|abbr=on}}.&lt;ref&gt;&quot;[http://lwf.ncdc.noaa.gov/oa/climate/online/ccd/max90temp.html National Climatic Data Center]&quot;, ''[[National Oceanic and Atmospheric Administration]], [[United States Department of Commerce]]'', 2004-06-23. Retrieved on 2006-12-14.&lt;/ref&gt; However, the humidity causes a heat index higher than the actual temperature. Summer mornings average over 90&amp;nbsp;percent [[relative humidity]] and approximately 60&amp;nbsp;percent in the afternoon.&lt;ref&gt;&quot;[http://lwf.ncdc.noaa.gov/oa/climate/online/ccd/avgrh.html Average Relative Humidity (%)]&quot;, ''National Climatic Data Center''. Retrieved on 2012-02-23.&lt;/ref&gt; Winds are often light in the summer and offer little relief, except near the immediate coast.&lt;ref&gt;[http://web.archive.org/web/20070209115107/http://www.met.utah.edu/jhorel/html/wx/climate/windavg.html Wind - Average Speed (mph)]. ''Department of Meteorology, [[University of Utah]].'' 1993. Retrieved on 2007-01-10&lt;/ref&gt; To cope with the heat, people use air conditioning in nearly every vehicle and building in the city; in 1980 Houston was described as the &quot;most air-conditioned place on earth&quot;.&lt;ref&gt;[http://web.archive.org/web/20070206075059/http://www.nbm.org/blueprints/90s/summer92/contents/contents.htm A MOMENT IN BUILDING]. ''BLUEPRINTS'', Volume X, Number 3, Summer 1992. National Building Museum. Retrieved on 2007-01-11.&lt;/ref&gt; Scattered afternoon showers and thunderstorms are common in the summer. The hottest temperature ever recorded in Houston is {{convert|109|°F|°C|abbr=on}}, which was reached both on September 4, 2000  and August 28, 2011.&lt;ref&gt;[http://www.wunderground.com/history/airport/KIAH/2000/9/4/DailyHistory.html?req_city=NA&amp;req_state=NA&amp;req_statename=NA September 4, 2000] wunderground.com&lt;/ref&gt;&lt;ref&gt;[http://www.wunderground.com/history/airport/KIAH/2011/8/27/DailyHistory.html August 28, 2011] wunderground.com&lt;/ref&gt;
+
+Winters in Houston are mild. The average high in January, the coldest month, is {{convert|63|°F|°C|abbr=on}}, while the average low is {{convert|43|°F|°C|abbr=on}}. [[Snow]]fall is very rare. Recent snow events in Houston include a storm on [[2004 Christmas Eve Snowstorm|December 24, 2004]] when one inch (2.5&amp;nbsp;cm) fell and more recent snowfalls on December 10, 2008. This was the earliest snowfall ever recorded in Houston. In addition, it set another milestone marking the first time in recorded history that snowfall has occurred in two consecutive years, and was the third accumulating snowfall occurring in the decade of 2000–2010. The coldest temperature ever recorded in Houston was {{convert|5|°F|°C|abbr=on}} on January 23, 1940.&lt;ref&gt;[http://web.archive.org/web/20090216234734/http://www.srh.noaa.gov/hgx/climate/iah/normals/iah_summary.htm Houston Extremes Data and Annual Summaries]. ''[[National Weather Service]], [[National Oceanic and Atmospheric Administration]]''. Published 2007-01-05. Retrieved on 2007-01-11.&lt;/ref&gt; Houston receives a high amount of rainfall annually, averaging about 50&amp;nbsp;inches (1,270&amp;nbsp;mm) a year. These rains tend to cause floods over portions of the city.
+
+Houston has excessive [[ozone]] levels and is routinely ranked among the most ozone-polluted cities in the United States.&lt;ref&gt;&quot;[http://www.lung.org/assets/documents/publications/state-of-the-air/state-of-the-air-report-2005.pdf State of the Air 2005, National and Regional Analysis]&quot;, ''American Lung Association'', page 26, 2005-03-25. Retrieved on 2006-02-17.&lt;/ref&gt; Ground-level ozone, or [[smog]], is Houston's predominant air pollution problem, with the [[American Lung Association]] rating the metropolitan area's ozone level as the 8th worst in the United States in 2011.&lt;ref&gt;&quot;[http://www.stateoftheair.org/2011/city-rankings/most-polluted-cities.html 25 Most Ozone-Polluted Cities]&quot;, ''American Lung Association''. Retrieved on 2011-06-06.&lt;/ref&gt; The industries located along the ship channel are a major cause of the city's air pollution.&lt;ref&gt;&quot;[http://www.cleanhouston.org/air/index.htm Summary of the Issues]&quot;, ''Citizens League for Environmental Action Now '', 2004-08-01. Retrieved on 2006-02-17.&lt;/ref&gt; In the past, Houston's air quality has been compared to that of Los&amp;nbsp;Angeles.&lt;ref&gt;&quot;[http://www.cleanhouston.org/air/index.htm Summary of the Issues]&quot;, ''Citizens League for Environmental Action Now'', 2004-08-01. Retrieved on 2006-02-17.&lt;/ref&gt; 
+
+{{Houston weatherbox}}
+
+=== Cityscape ===
+{{Further2|[[Geographic areas of Houston]]|[[List of Houston neighborhoods]]}}
+Houston was incorporated in 1837 under the [[Ward (politics)|ward]] system of representation. The ward designation is the progenitor of the eleven current-day geographically-oriented Houston City Council districts. Locations in Houston are generally classified as either being inside or outside the [[Interstate 610 (Texas)|Interstate&amp;nbsp;610 Loop]]. The inside encompasses the central business district and many residential neighborhoods that predate World War II. More recently, high-density residential areas have been developed within the loop. The city's outlying areas, suburbs and enclaves are located outside of the loop. [[Texas State Highway Beltway 8|Beltway 8]] encircles the city another {{convert|5|mi|km}} farther out.
+
+Though Houston is the largest city in the United States without formal [[zoning]] regulations, it has developed similarly to other [[Sun Belt]] cities because the city's land use regulations and [[Covenant (law)#In a legal context|legal covenants]] have played a similar role.&lt;ref name=nytzoning&gt;{{cite news | title = FOCUS: Houston; A Fresh Approach To Zoning | work=New York Times | accessdate = 2009-03-27 | url = http://www.nytimes.com/1986/08/17/realestate/focus-houston-a-fresh-approach-to-zoning.html?sec=&amp;spon=&amp;pagewanted=print | first=Robert | last=Reinhold
+}}&lt;/ref&gt;&lt;ref name=nozoning&gt;{{cite web | title = Zoning Without Zoning | work=planetizen.com | accessdate = 2009-03-27 | url = http://www.planetizen.com/node/109
+}}&lt;/ref&gt;  Regulations include mandatory lot size for single-family houses and requirements that parking be available to tenants and customers. Such restrictions have had mixed results. Though some&lt;ref name=nozoning/&gt; have blamed the city's low density, [[urban sprawl]], and lack of pedestrian-friendliness on these policies, the city's land use has also been credited with having significant affordable housing, sparing Houston the worst effects of the [[United States housing bubble|2008 real estate crisis]].&lt;ref&gt;{{cite web|title = Lack of zoning has paid off for Houston|work=chron.com, Houston Chronicle|date= 2008-05-27|accessdate=2009-03-27|url=http://www.chron.com/disp/story.mpl/business/steffy/5804649.html}}&lt;/ref&gt; The city issued 42,697 building permits in 2008 and was ranked first in the list of healthiest housing markets for 2009.&lt;ref&gt;{{cite web | title = The Healthiest Housing Markets for 2009 - Local Markets, Construction, Home Priceses | work=Builder Magazine | date = 2009-02-27 | accessdate = 2009-03-04 | url = http://www.builderonline.com/local-markets/the-healthiest-housing-markets-for-2009.aspx?page=15}}&lt;/ref&gt;
+
+Voters rejected efforts to have separate residential and commercial land-use districts in 1948, 1962, and 1993. Consequently, rather than a single central business district as the center of the city's employment, multiple districts have grown throughout the city in addition to [[Downtown Houston|downtown]] which include [[Uptown Houston|Uptown]], [[Texas Medical Center|Texas&amp;nbsp;Medical&amp;nbsp;Center]], [[Midtown, Houston, Texas|Midtown]], [[Greenway Plaza|Greenway&amp;nbsp;Plaza]], [[Memorial City]], [[Houston Energy Corridor|Energy&amp;nbsp;Corridor]], [[Westchase, Houston, Texas|Westchase]], and [[Greenspoint, Houston, Texas|Greenspoint]].
+
+{{wide image|Houston from Sabine Park.jpg|800px|&lt;center&gt;The western view of [[Downtown Houston]] skyline}}
+&lt;/center&gt;
+{{wide image|Panoramic Houston skyline.jpg |800px|&lt;center&gt;The southern view of [[Downtown Houston]] skyline}}
+&lt;/center&gt;
+{{wide image|Uptown Houston.jpg |800px|&lt;center&gt;The [[Uptown Houston]] skyline}}
+&lt;/center&gt;
+
+== Government and politics ==
+{{Main|Politics of Houston}}
+[[File:Houston City Hall-1.jpg|thumb|right|[[Houston City Hall]]]]
+The city of Houston has a [[mayor–council government|strong mayoral]] form of municipal government.&lt;ref name=&quot;home rule&quot;&gt;{{cite web | title = Office of the Controller, City of Houston |work=Summary of Significant Accounting Policies | accessdate = 2009-03-27 | url = http://www.houstontx.gov/controller/cafr/cafr2.html}}&lt;/ref&gt; Houston is a [[devolution|home rule]] city and all municipal elections in the state of Texas are [[nonpartisan]].&lt;ref name=&quot;home rule&quot;/&gt;&lt;ref&gt;{{cite web | title = Local Government in Texas: Cities, Towns, Counties, and Special Districts | work=Politics in America, Sixth Edition | author=Thomas R. Dye | accessdate = 2009-03-27| url = http://wps.prenhall.com/hss_dye_politics_6/27/7116/1821883.cw/index.html}}&lt;/ref&gt; The City's elected officials are the mayor, city controller and 16 members of the [[city council]].&lt;ref name=&quot;Houston City Council&quot;&gt;{{cite web | title = City Council | work=City of Houston eGovernment Center | accessdate = 2009-03-27 | url = http://www.houstontx.gov/council/index.html}}&lt;/ref&gt; The current mayor of Houston is [[Annise Parker]], a Democrat elected on a nonpartisan ballot whose second term in office will expire at the end of 2013.&lt;ref name=&quot;Houston Mayor's Office&quot;/&gt; Houston's mayor serves as the city's chief administrator, executive officer, and official representative, and is responsible for the general management of the city and for seeing that all laws and ordinances are enforced.&lt;ref name=&quot;Houston Mayor's Office&quot;&gt;{{cite web | title = Mayor's Office | work=City of Houston eGovernment Center | accessdate = 2009-03-27 | url = http://www.houstontx.gov/mayor/index.html}}&lt;/ref&gt;
+
+The original city council line-up of 14 members (nine district-based and five at-large positions) was based on a U.S. Justice Department mandate which took effect in 1979.&lt;ref&gt;{{cite news | title = Strong Currents of Change | work=TIME Magazine | date = 1979-11-19 | accessdate = 2009-03-27 | url = http://www.time.com/time/magazine/article/0,9171,948775,00.html }}&lt;/ref&gt;  At-large council members represent the entire city.&lt;ref name=&quot;Houston City Council&quot;/&gt; Under the city charter, once the population in the city limits exceeded 2.1&amp;nbsp;million residents, two additional districts were to be added.&lt;ref&gt;{{cite web | title = City Council may grow by two seats, Houston Chronicle | author=Matt Stiles |work=Houston Chronicle  | date = 2006-08-10 | accessdate = 2009-03-27 | url = http://www.chron.com/CDA/archives/archive.mpl?id=2006_4168311}}&lt;/ref&gt; The City of Houston's official 2010 census count was 600 shy of the required number; however, as the city was expected to grow beyond 2.1 million shortly thereafter, the two additional districts were added and the positions filled during the August 2011 elections.  The districts are labeled A through K while the at-large positions are numbered 1 through 5.  
+
+The city [[comptroller|controller]] is elected independently of the mayor and council. The controller's duties are to certify available funds prior to committing such funds and processing disbursements. The city's fiscal year begins on July 1 and ends on June 30.  [[Ronald C. Green|Ronald Green]] is the city controller, serving his first term as of January 2010.
+
+As the result of a 1991 referendum in Houston, a mayor is elected for a two-year term, and can be elected to as many as three consecutive terms. The term limits were spearheaded by conservative political activist [[Clymer Wright]].&lt;ref&gt;{{cite web|url=http://www.chron.com/disp/story.mpl/metropolitan/7397637.html|title=Aimee Buras, &quot;Clymer Wright, force for Houston term limits, found dead,&quot; January 25, 2011|work=Houston Chronicle|accessdate=January 29, 2011}}&lt;/ref&gt;  The city controller and city council members are also subject to the same two-year, three-term limitations.
+
+Houston is considered to be a politically divided city whose balance of power often sways between Republicans and Democrats. Much of the city's wealthier areas vote Republican, while the city's middle class, working class, and minority areas vote Democratic. According to the 2005 Houston Area Survey, 68&amp;nbsp;percent of non-Hispanic whites in Harris County are declared or favor Republicans while 89 percent of non-Hispanic blacks in the area are declared or favor Democrats. About 62&amp;nbsp;percent Hispanics (of any race) in the area are declared or favor Democrats.&lt;ref name=&quot;Houston Area Survey 1982–2005&quot;&gt;Klineberg, Stephen. [http://web.archive.org/web/20070203174916/http://cohesion.rice.edu/CentersAndInst/HAS/emplibrary/REPORT-2005.pdf Houston Area Survey 1982–2005], Page 40.&lt;/ref&gt; The city has often been known to be the most politically diverse city in Texas, a state known for being generally conservative.&lt;ref name=&quot;Houston Area Survey 1982–2005&quot;/&gt; As a result the city is often a contested area in statewide elections.&lt;ref name=&quot;Houston Area Survey 1982–2005&quot;/&gt; In 2009, Houston became the first US city with a population over 1 million to elect a gay mayor, by electing [[Annise Parker]].
+
+== Economy ==
+{| class=&quot;wikitable&quot; style=&quot;float:right; font-size:75%; text-align:center; margin:1em;&quot;
+|-
+| colspan=&quot;6&quot; style=&quot;background:#9BDDFF;&quot;|'''Top publicly traded companies&lt;br /&gt; in Houston for 2011'''&lt;br /&gt;''with Texas and U.S. ranks''
+|- style=&quot;background:#ccc;&quot;
+||'''Texas'''|||| style=&quot;background:#ccc;&quot;|'''Corporation'''|||| style=&quot;background:#ccc;&quot;|'''US'''
+|-
+| 2|||| style=&quot;background:#afa;&quot;|[[ConocoPhillips]]||||4
+|-
+| 5|||| style=&quot;background:#afa;&quot;|[[Marathon Oil]]||||29
+|-
+| 7|||||[[Sysco]]||||67
+|-
+| 8|||| style=&quot;background:#afa;&quot;|[[Enterprise Products Partners]]||||80
+|-
+| 9|||| style=&quot;background:#afa;&quot;|[[Plains All American Pipeline]]||||99
+|-
+| 14|||| style=&quot;background:#afa;&quot;|[[Halliburton]]||||144
+|-
+| 17|||| style=&quot;background:#afa;&quot;|[[Baker Hughes]]||||170
+|-
+| 19|||| |[[Waste Management, Inc]]||||196
+|-
+| 20|||| style=&quot;background:#afa;&quot;|[[National Oilwell Varco]]||||202
+|-
+| 23|||| style=&quot;background:#afa;&quot;|[[Apache Corporation]]||||206
+|-
+| 25|||| style=&quot;background:#afa;&quot;|[[KBR (company)|KBR]]||||242
+|-
+| 29|||| style=&quot;background:#afa;&quot;|[[CenterPoint Energy]]||||279
+|-
+| 32||||style=&quot;background:#afa;&quot;|[[Kinder Morgan]]||||294
+|-
+| 34|||| style=&quot;background:#afa;&quot;|[[Enbridge Energy Partners]]||||309
+|-
+| 35|||| style=&quot;background:#afa;&quot;|[[Calpine]]||||349
+|-
+| 38|||| style=&quot;background:#afa;&quot;|[[Cameron International]]||||375
+|-
+| 39|||| style=&quot;background:#afa;&quot;|[[EOG Resources]]||||377
+|-
+| 41|||| style=&quot;background:#afa;&quot;|[[Frontier Oil]]||||389
+|-
+| 44|||||[[Group 1 Automotive]]||||413
+|-
+| 45||||style=&quot;background:#afa;&quot;|[[Targa Resources]]||||416
+|-
+| 46|||| style=&quot;background:#afa;&quot;|[[Spectra Energy]]||||441
+|-
+| 48|||| style=&quot;background:#afa;&quot;|[[El Paso Energy]]||||481
+|-
+| colspan=&quot;6&quot; style=&quot;background:#ccc;&quot;|'''''Notes'''''
+|-
+| colspan=&quot;6&quot;|''Revenues for year ending 2010''
+|-
+| colspan=&quot;6&quot; style=&quot;background:#afa;&quot;|''Energy and oil &lt;small&gt;(20 companies)&lt;/small&gt;''
+|-
+|colspan=&quot;6&quot; | '''Source:''' ''[[Fortune (magazine)|Fortune]]''&lt;ref&gt;[http://money.cnn.com/magazines/fortune/fortune500/2011/states/TX.html ''Fortune'' 500 web site (state: Texas)] as retrieved on May 25, 2011&lt;/ref&gt;
+|}
+{{Main|Economy of Houston}}
+{{Further2|[[List of companies in Houston]]}}
+[[Image:Houston Ship Channel.jpg|thumb|left|[[Port of Houston]] along the [[Houston Ship Channel]]]]
+Houston is recognized worldwide for its energy industry—particularly for oil and natural gas—as well as for biomedical research and aeronautics. Renewable energy sources—wind and solar—are also growing economic bases in Houston.&lt;ref&gt;{{cite web
+| title = Alternative Energy in the Houston Region
+| work=Greater Houston Partnership
+| accessdate = 2009-01-09
+| url = http://www.houston.org/pdf/16BW035.pdf
+|format=PDF}}&lt;/ref&gt;&lt;ref&gt;{{cite web | title = Alternative Energy in the Houston Region | work=Greater Houston Convention and Visitors Bureau | accessdate = 2009-04-20 | url = http://www.visithoustontexas.com/visitors/green/Alternative_Energy_Industry_in_Houston
+}}&lt;/ref&gt; The ship channel is also a large part of Houston's economic base. Because of these strengths, Houston is designated as a [[global city]] by the Globalization and World Cities Study Group and Network and by global management consulting firm A.T. Kearney.&lt;ref name=&quot;kearney&quot; /&gt;
+
+The Houston area is a leading center for building oilfield equipment.&lt;ref&gt;&quot;{{PDFlink|[http://www.houston.org/pdf/research/16BW010.pdf Energy Industry Overview]|24.8&amp;nbsp;KB}}&quot;, ''Greater Houston Partnership''. Retrieved on 2009-03-21.&lt;/ref&gt; Much of Houston's success as a petrochemical complex is due to its busy ship channel, the [[Port of Houston]].&lt;ref&gt;&quot;{{PDFlink|[http://www.portofhouston.com/pdf/pubaffairs/POHA-firsts.pdf Port of Houston Firsts]|18.2&amp;nbsp;KB}}&quot;, ''The Port of Houston Authority'', 2007-05-15. Retrieved on 2007-05-27.&lt;/ref&gt; The port ranks first in the United States in international commerce, and is the tenth-largest port in the world.&lt;ref name=&quot;port ranking&quot;/&gt;&lt;ref&gt;&quot;[http://www.portofhouston.com/geninfo/overview1.html General Information]&quot;, ''The Port of Houston Authority'', 2007-05-15. Retrieved on 2007-05-27.&lt;/ref&gt; Unlike most places, high oil and gasoline prices are beneficial for Houston's economy as many of its residents are employed in the energy industry.&lt;ref&gt;{{cite news
+ | last = Bustillo
+ | first = Miguel
+ | title = Houston is Feeling Energized
+ | work=Los Angeles Times
+ | date = 2006-12-28
+ | url = http://www.latimes.com/news/nationworld/columnone/la-na-houston28dec28,1,6780480.story?page=1&amp;coll=la-headlines-columnone
+ | accessdate = 2007-02-06| archiveurl = http://web.archive.org/web/20080621065935/http://www.latimes.com/news/nationworld/columnone/la-na-houston28dec28,1,6780480.story?page=1&amp;coll=la-headlines-columnone| archivedate = June 21, 2008}}&lt;/ref&gt;
+
+The Houston–Sugar Land–Baytown MSA's gross domestic product (GDP) in 2010 was $385&amp;nbsp;billion, larger than Austria's, Argentina's or South Africa's GDP.&lt;ref&gt;{{cite web
+| title = Gross Metropolitan Product
+| work = Greyhill Advisors
+| accessdate = 2011-09-25
+| url = http://greyhill.com/gross-metropolitan-product/
+}}&lt;/ref&gt; Only 21 countries other than the United States have a gross domestic product exceeding Houston's regional gross area product.  Mining, which in Houston consists almost entirely of exploration and production of oil and gas, accounts for 26.3% of Houston's GAP, up sharply in response to high energy prices and a decreased worldwide surplus of oil production capacity; followed by engineering services, health services, and manufacturing.&lt;ref&gt;&quot;{{PDFlink|[http://www.houston.org/pdf/research/15AW001.pdf Gross Area Product by Industry]|28.3&amp;nbsp;KB}}&quot;, ''Greater Houston Partnership''. Retrieved on 2009-03-21.&lt;/ref&gt; 
+
+[[Image:Houstonecon.jpg|thumb|left|A graph showing the major sectors of the Houston economy.&lt;ref&gt;{{cite web|url=http://www.city-data.com/us-cities/The-South/Houston-Economy.html|title=Houston: Economy|publisher=Advameg Inc.|accessdate=2007-07-03}}&lt;/ref&gt;]]
+
+The [[University of Houston System]]'s annual impact on the Houston-area's economy equates to that of a major corporation: $1.1 billion in new funds attracted annually to the Houston area, $3.13 billion in total economic benefit, and 24,000 local jobs generated.&lt;ref name=&quot;Economic Impact&quot;&gt;{{cite news|title=Study suggests UH degrees are crucial economic factor|last=TRESAUGUE|first=Matthew|url=http://www.chron.com/disp/story.mpl/3868657.html|work=Houston Chronicle|date=2006-05-17|accessdate=2011-05-31}}&lt;/ref&gt;&lt;ref name=&quot;UH System Economic Impact&quot;&gt;{{cite web | title = The Economic Impact of Higher Education on Houston: A Case Study of the University of Houston System | work=University of Houston System | accessdate = 2011-05-14 | url = http://www.advancement.uh.edu/impact/download/PDF/EconomicImpactStudy.pdf|format=PDF}}&lt;/ref&gt;  This is in addition to the 12,500 new graduates the UH&amp;nbsp;System produces every year who enter the workforce in Houston and throughout Texas.  These degree-holders tend to stay in Houston. After five years, 80.5&amp;nbsp;percent of graduates are still living and working in the region.&lt;ref name=&quot;UH System Economic Impact&quot;/&gt;
+
+In 2006, the Houston metropolitan area ranked first in Texas and third in the U.S. within the Category&amp;nbsp;of &quot;Best Places for Business and Careers&quot; by ''Forbes'' magazine.&lt;ref&gt;Badenhausen, Kurt. &quot;[http://www.forbes.com/2006/05/03/06bestplaces_best-places-for-business_land.html 2006 Best Places for Business and Careers]&quot;, ''Forbes'', 2006-05-04. Retrieved on 2006-12-15.&lt;/ref&gt; Foreign governments have established 92 consular offices in metropolitan Houston, the third highest in the nation.&lt;ref&gt;{{cite web|url=http://www.houstontx.gov/abouthouston/houstonfacts.html |title=Houston Facts and Figures |publisher=Houstontx.gov |date= |accessdate=2012-02-10}}&lt;/ref&gt;  Forty foreign governments maintain trade and commercial offices here and 23 active foreign chambers of commerce and trade associations.&lt;ref&gt;&quot;{{PDFlink|[http://www.houston.org/pdf/research/18AW001.pdf Houston Foreign Consulate Representation]|30.2&amp;nbsp;KB}}&quot;, ''Greater Houston Partnership''. Retrieved on 2009-03-21.&lt;/ref&gt; Twenty-five foreign banks representing 13 nations operate in Houston, providing financial assistance to the international community.&lt;ref&gt;{{cite web | title = International Banks in the Houston Area | work=Greater Houston Partnership | accessdate = 2009-03-21 | url = http://www.houston.org/pdf/research/18HW010_001.pdf|format=PDF}}&lt;/ref&gt;
+
+In 2008, Houston received top ranking on Kiplinger's Personal Finance ''Best Cities of 2008'' list which ranks cities on their local economy, employment opportunities, reasonable living costs and quality of life.&lt;ref&gt;{{cite web
+| title = 2008 Best Cities, Houston, Texas
+| author=Jane Bennett Clark
+| date = 2008-07-01
+| work=Kiplinger.com
+| accessdate = 2008-06-21
+| url = http://www.kiplinger.com/features/archives/2008/05/2008-best-city-houston.html
+}}&lt;/ref&gt; The city ranked fourth for highest increase in the local technological innovation over the preceding 15&amp;nbsp;years, according to ''Forbes'' magazine.&lt;ref&gt;{{Cite news
+| title = Top 10 Up-And-Coming Tech Cities
+|work=Forbes
+| accessdate = 2008-06-21
+| url = http://www.forbes.com/2008/03/10/columbus-milwaukee-houston-ent-tech-cx_wp_0310smallbizoutlooktechcity.html
+| date=March 10, 2008
+}}&lt;/ref&gt; In the same year, the city ranked second on the annual [[Fortune 500]] list of company headquarters,&lt;ref name=&quot;Fortune 500&quot;&gt;{{cite news
+| title = Fortune 500 2008: Cities
+| accessdate = 2008-04-22
+| url = http://money.cnn.com/magazines/fortune/fortune500/2008/cities/
+|publisher=CNN
+}}&lt;/ref&gt; ranked first for ''Forbes'' ''Best Cities for College Graduates'',&lt;ref&gt;{{Cite news
+| title = Best Cities For Recent College Grads
+|work=Forbes
+| date = 2008-06-28
+| author=Andrew Egan
+| accessdate = 2008-06-29
+| url = http://www.forbes.com/2008/06/26/cities-grads-best-forbeslife-cx_ae_0626realestate.html
+}}&lt;/ref&gt; and ranked first on Forbes list of ''Best Cities to Buy a Home''.&lt;ref&gt;{{Cite news
+| title = Best Cities To Buy A Home
+| work=Forbes,com
+| accessdate = 2009-03-04
+| url = http://www.forbes.com/2008/07/14/housing-buyers-list-forbeslife-cx_md_0714bestbuy.html
+| date=July 14, 2008
+}}&lt;/ref&gt; In 2010, the city was rated the best city for shopping, according to Forbes.&lt;ref&gt;{{cite news| url=http://articles.nydailynews.com/2010-12-14/entertainment/27084334_1_sales-tax-shopping-centers-shopping-city | location=New York | work=Daily News | first=Lindsay | last=Goldwert | title=Houston is top U.S. shopping city, per Forbes; New York comes in 23rd due to sales tax, retail space | date=2010-12-14}}&lt;/ref&gt; 
+
+In 2012, the city was ranked #1 for paycheck worth by Forbes; and in late May 2013, Houston was identified as America's top city for employment creation.&lt;ref name=&quot;paycheck ranking&quot;&gt;{{cite web | title = Forbes ranks Houston No. 1 for paycheck worth | url = http://www.bizjournals.com/houston/news/2012/07/10/forbes-ranks-houston-no-1-for.html}}&lt;/ref&gt;&lt;ref name=&quot;One&quot;&gt;{{cite web|title=Houston Is Unstoppable: Why Texas' Juggernaut Is America's #1 Job Creator|url=http://www.theatlantic.com/business/archive/2013/05/houston-is-unstoppable-why-texas-juggernaut-is-americas-1-job-creator/275927/|work=The Atlantic|publisher=The Atlantic Monthly Group|accessdate=29 May 2013|author=Derek Thompson|date=28 May 2013}}&lt;/ref&gt;   
+
+In 2013, Houston was identified as the #1 U.S. city for job creation by the U.S. Bureau of Statistics after it was not only the first major city to regain all the jobs lost in the preceding economic downturn, but after the crash, more than two jobs were added for every one lost. Economist and vice president of research at the Greater Houston Partnership Patrick Jankowski attributed Houston's success to the ability of the region's real estate and energy industries to learn from historical mistakes. Furthermore, Jankowski stated that &quot;more than 100 foreign-owned companies relocated, expanded or started new businesses in Houston&quot; between 2008 and 2010, and this openness to  external business boosted job creation during a period when domestic demand was problematically low.&lt;ref name=&quot;One&quot; /&gt;      
+{{clear}}
+
+== Demographics ==
+{{Main|Demographics of Houston}}
+{{USCensusPop
+|1850= 2396
+|1860= 4845
+|1870= 9332
+|1880= 16513
+|1890= 27557
+|1900= 44633
+|1910= 78800
+|1920= 138276
+|1930= 292352
+|1940= 384514
+|1950= 596163
+|1960= 938219
+|1970= 1232802
+|1980= 1595138
+|1990= 1630553
+|2000= 1953631
+|2010= 2100263
+|estimate= 2160821
+|estyear= 2012&lt;ref&gt;http://factfinder2.census.gov/faces/tableservices/jsf/pages/productview.xhtml?src=bkmk&lt;/ref&gt;
+|footnote=&lt;center&gt;[http://www.census.gov/prod/www/abs/decennial/ U.S. Decennial Census]&lt;br&gt;[http://www.census.gov/popest/data/cities/totals/2011/tables/SUB-EST2011-03-48.csv 2011 estimate]&lt;/center&gt;
+}}
+
+[[Image:Race and ethnicity 2010- Houston.png|thumb|left|Map of racial/ethnic distribution in the City of Houston, 2010 census - Each dot represents 25 people. Red dots represent White people, orange dots represent Hispanic people, blue dots represent Black people, green dots represent Asian people, and gray dots represent other people]]
+Houston is a multicultural city, in part because of its many academic institutions and strong industries as well as being a major port city. Over 90&amp;nbsp;languages are spoken in the city.&lt;ref&gt;&quot;[http://www.houstontx.gov/abouthouston/houstonfacts.html Houston Facts and Figures]&quot;, ''City of Houston''. Retrieved on 2006-12-15.&lt;/ref&gt;  The city has among the youngest populations in the nation,&lt;ref&gt;{{PDFlink|[http://www.ewgateway.org/pdffiles/library/wws/wws06.pdf The Strategic Assessment of the St. Louis Region, 5th edition]|4.35&amp;nbsp;MB}}. ''East-West Gateway Council of Governments.'' 2006. Retrieved on 2007-01-11. ''Page 25 in PDF File, labeled as page 21.''&lt;/ref&gt;&lt;ref&gt;[http://factfinder.census.gov/servlet/ACSSAFFFacts?_event=&amp;geo_id=16000US4835000&amp;_geoContext=01000US%7C04000US48%7C16000US4835000&amp;_county=Houston&amp;_cityTown=Houston&amp;_state=04000US48 Houston city, Texas]. 2005 American Community Survey Data Profile Highlights, ''[[United States Census Bureau]]''. 2005. Retrieved on 2007-01-12.&lt;/ref&gt;&lt;ref&gt;[http://factfinder.census.gov/servlet/GRTTable?_bm=y&amp;-geo_id=04000US48&amp;-_box_head_nbr=R0101&amp;-ds_name=ACS_2005_EST_G00_&amp;-_lang=en&amp;-redoLog=false&amp;-format=US-30&amp;-mt_name=ACS_2005_EST_G00_R0101_US30&amp;-_sse=on United States and States R0101. Median Age of the Total Population: 2005]. 2005 American Community Survey, ''[[United States Census Bureau]]''. 2005. Retrieved on 2007-01-12.&lt;/ref&gt; partly due to an influx of immigrants into Texas.&lt;ref&gt;[http://www.dallasfed.org/research/pubs/fotexas/fotexas_petersen.html The Face of Texas Jobs, People, Business, Change]. D'Ann Petersen and Laila Assanie, ''Federal Reserve Bank of Dallas.'' October 2005. Retrieved on 2007-01-11.{{dead link|date=September 2012}}&lt;/ref&gt;  An estimated 400,000 [[illegal immigration|undocumented immigrants]] reside in the Houston area.&lt;ref&gt;{{cite news | last = Hegstrom | first = Edward | title = Shadows Cloaking Immigrants Prevent Accurate Count | work=Houston Chronicle | date = 2006-02-21 | url = http://www.chron.com/disp/story.mpl/metropolitan/3500074.html | accessdate = 2007-02-06}}&lt;/ref&gt;
+
+According to the 2010 Census, whites made up 51% of Houston's population; 26% of the total population were {{nowrap|non-Hispanic}} whites. Blacks or African Americans made up 24% of Houston's population. American Indians made up 0.7% of Houston's population. Asians made up 6% of Houston's population (1.7% Vietnamese, 1.3% Chinese, 1.3% Indian, 0.9% Pakistani, 0.4% Filipino, 0.3% Korean, 0.1% Japanese), while Pacific Islanders made up 0.1%. Individuals from some other race made up 15.2% of the city's population, of which 0.2% were non-Hispanic. Individuals from two or more races made up 3.3% of the city's population. People of Hispanic origin, regardless of race, made up 44% of Houston's population&lt;ref&gt;{{Cite news
+| title = Houston, TX 2010 Census Profile
+| work=census.gov
+| accessdate = 2011-03-13
+| url = http://www.usatoday.com/news/nation/census/profile/tx
+}}&lt;/ref&gt;
+
+As of the 2000 Census, there were 1,953,631 people and the population density was 3,371.7 people per square mile (1,301.8/km²). The racial makeup of the city was 49.3% White, 25.3% African American, 5.3% Asian, 0.4% American Indian, 0.1% Pacific Islander, 16.5% from some other race, and 3.1% from two or more races. In addition, Hispanics made up 37.4% of Houston's population while non-Hispanic whites made up 30.8%,&lt;ref&gt;{{cite web
+| title = Houston city, Texas - DP-1. Profile of General Demographic Characteristics: 2000
+| work=census.gov
+| accessdate = 2009-07-10
+| url = http://factfinder.census.gov/servlet/QTTable?_bm=y&amp;-geo_id=16000US4835000&amp;-qr_name=DEC_2000_SF1_U_DP1&amp;-ds_name=DEC_2000_SF1_U&amp;-_lang=en&amp;-_sse=on
+}}&lt;/ref&gt; down from 62.4% in 1970.&lt;ref name=&quot;census1&quot;&gt;{{cite web|title=Texas - Race and Hispanic Origin for Selected Cities and Other Places: Earliest Census to 1990|publisher=U.S. Census Bureau|url=http://www.census.gov/population/www/documentation/twps0076/twps0076.html|accessdate=April 21, 2012}}&lt;/ref&gt; 
+
+The median income for a household in the city was $37,000, and the median income for a family was $40,000. Males had a median income of $32,000 versus $27,000 for females. The per capita income for the city was $20,000. Nineteen percent of the population and 16&amp;nbsp;percent of families were below the poverty line. Out of the total population, 26% of those under the age of 18 and 14% of those 65 and older were living below the poverty line.
+{{clear}}
+
+== Culture ==
+{{Main|Culture of Houston}}
+{{See also|Nicknames of Houston|List of events in Houston|List of people raised in Houston|Sister cities of Houston}}
+[[Image:Porsche 356 Art Car.jpg|right|thumb|[[Houston Art Car Parade]]]]
+Houston is a diverse city with a large and growing international community.&lt;ref&gt;{{cite web | title = Components of Population Change | work=houston.org | url = http://www.houston.org/pdf/research/09AW001.pdf |format=PDF| accessdate = 2009-03-21}}&lt;/ref&gt; The metropolitan area is home to an estimated 1.1&amp;nbsp;million (21.4 percent) residents who were born outside the United States, with nearly two-thirds of the area's foreign-born population from south of the United States–Mexico border.&lt;ref name = &quot;ytlzpc&quot;&gt;{{cite web | title = Foreign Born Population | work=houston.org | url = http://www.houston.org/pdf/research/09GW025.pdf | accessdate = 2009-03-21|format=PDF}}&lt;/ref&gt; Additionally, more than one in five foreign-born residents are from Asia.&lt;ref name = &quot;ytlzpc&quot;/&gt; The city is home to the nation's third-largest concentration of consular offices, representing 86 countries.&lt;ref&gt;{{cite web | title = International Representation in Houston | work=houston.org | url = http://www.houston.org/pdf/research/18AW001.pdf | accessdate = 2009-03-21|format=PDF}}&lt;/ref&gt;
+
+Many annual events celebrate the diverse cultures of Houston. The largest and longest running is the annual [[Houston Livestock Show and Rodeo]], held over 20&amp;nbsp;days from late February to early March, which happens to be the largest annual livestock show and rodeo anywhere in the world.&lt;ref&gt;{{cite web | title = About the Houston Livestock Show and Rodeo | work=hlsr.com | accessdate = 2009-09-28 | url = http://www.hlsr.com/m/downloads/08PurposeBrochure.pdf|format=PDF}} {{Dead link|date=September 2010|bot=H3llBot}}&lt;/ref&gt; Another large celebration is the annual night-time Houston [[Gay pride parade|Pride Parade]], held at the end of June.&lt;ref&gt;{{cite web | title = Houston Pride Parade | work=PrideHouston.com | accessdate = 2012-05-15 | url = https://www.pridehouston.org/about/}}&lt;/ref&gt; Other annual events include the [[Houston Greek Festival]],&lt;ref&gt;[http://www.greekfestival.org/ The Original Greek Festival, Houston, Texas]. 2006. Retrieved on 2007-01-10. '''''Warning:''''' ''Automatic sound file.''&lt;/ref&gt; [[Houston Art Car Parade|Art Car Parade]], the [[Houston Auto Show]], the Houston International Festival,&lt;ref&gt;[http://www.ifest.org/ The Houston International Festival]. 2007. Retrieved on 2007-01-10.&lt;/ref&gt; and the [[Bayou City Art Festival]], which is considered to be one of the top five art festivals in the United States.&lt;ref name=AmericanStyle2004&gt;{{cite web|accessdate=2007-04-26
+|url=http://www.cse.buffalo.edu/~rapaport/Buffalo/Top_25_Fairs_Festivals.cfm.html
+|title=The 2004 Top 25 Fairs &amp; Festivals
+|work=AmericanStyle Magazine}}&lt;/ref&gt;&lt;ref name=AmericanStyle2005&gt;{{cite web|accessdate=2007-04-28
+|title=AmericanStyle Magazine Readers Name 2005 Top 10 Art Fairs and Festivals
+|url=http://www.paradisecityarts.com/public/pdfs/2005top10.pdf
+|date=October 25, 2005|work=AmericanStyle Magazine|format=PDF}}&lt;/ref&gt;
+
+Houston received the official nickname of &quot;Space City&quot; in 1967 because it is the location of NASA's [[Lyndon B. Johnson Space Center]]. Other nicknames often used by locals include {{nowrap|&quot;[[Nicknames of Houston|Bayou City]],&quot;}} &quot;Magnolia&amp;nbsp;City,&quot; &quot;New Houston,&quot; a tribute to the cultural contributions of New Orleans natives who left their city during the 2005 [[Hurricane Katrina]] catastrophe, and &quot;H-Town.&quot;
+{{clear}}
+{{wide image|Reliant Stadium Houston Rodeo.jpg|800px|&lt;center&gt;The annual [[Houston Livestock Show and Rodeo]] held inside the [[Reliant Stadium]].}}
+&lt;/center&gt;
+{{wide image|George R. Brown Convention Center 2.jpg|800px|&lt;center&gt;The [[George R. Brown Convention Center]] regularly holds various kinds of conventions.}}
+&lt;/center&gt;
+
+=== Arts and theater ===
+[[Image:Hobbycenter.jpg|thumb|[[Hobby Center for the Performing Arts]]]]
+[[Image:MFA houston.jpg|left|thumb|[[Museum of Fine Arts, Houston]]]]
+[[Image:HMNS.jpg|left|thumb|[[Houston Museum of Natural Science]]]]
+The [[Houston Theater District]], located downtown, is home to nine major performing arts organizations and six performance halls. It is the second-largest concentration of theater seats in a downtown area in the United States.&lt;ref&gt;Ramsey, Cody. &quot;[http://www.texasmonthly.com/mag/issues/2002-09-01/tidbits.php In a state of big, Houston is at the top]&quot;, ''Texas Monthly'', September 2002. Retrieved December 10, 2002.&lt;/ref&gt;&lt;ref&gt;{{cite web | title = Houston Arts and Museums | publisher=City of Houston eGovernment Center | url = http://www.houstontx.gov/abouthouston/artsandmuseums.html | accessdate = 2007-02-07}}&lt;/ref&gt;&lt;ref&gt;&quot;[http://web.archive.org/web/20061209083929/http://www.houstontheaterdistrict.org/en/cms/?68 About Houston Theater District]&quot;, ''Houston Theater District''. Retrieved on 2006-12-16. Archived at the Internet Archive Wayback Machine.&lt;/ref&gt; Houston is one of few United States cities with permanent, professional, resident companies in all major performing arts disciplines: opera ([[Houston Grand Opera]]), ballet ([[Houston Ballet]]), music ([[Houston Symphony|Houston Symphony Orchestra]]), and theater ([[The Alley Theatre]]).&lt;ref name = &quot;ikvngd&quot;/&gt;&lt;ref&gt;&quot;[http://web.archive.org/web/20061212043351/http://www.houstontheaterdistrict.org/en/cms/?12 Performing Arts Venues]&quot;, ''Houston Theater District''. Retrieved on 2006-12-16. Archived at the Internet Archive Wayback Machine.&lt;/ref&gt; Houston is also home to  [[folk art]]ists, [[art groups]] and various small progressive arts organizations.&lt;ref&gt;&quot;[http://www.artcarmuseum.com/History/history.htm A Brief History of the Art Car Museum]&quot;, ''ArtCar Museum of Houston''. Retrieved on 2006-12-16.&lt;/ref&gt; Houston attracts many touring Broadway acts, concerts, shows, and exhibitions for a variety of interests.&lt;ref&gt;[http://web.archive.org/web/20061230024248/http://www.quilts.com/home/news/index.php? 2006 fall edition of International Quilt Festival attracts 53,546 to Houston]. ''Quilts., Inc.'' Press release published 2006-11-30. Retrieved on 2007-01-12.&lt;/ref&gt;  Facilities in the Theater&amp;nbsp;District include the [[Jones Hall]]—home of the [[Houston Symphony Orchestra]] and Society for the Performing Arts—and the [[Hobby Center for the Performing Arts]].
+
+The [[Houston Museum District|Museum District]]'s cultural institutions and exhibits attract more than 7&amp;nbsp;million visitors a year.&lt;ref&gt;[http://www.visithoustontexas.com/visitors/listing.details.php?id=23096 Houston Museum District]. Greater Houston Convention and Visitors Bureau. Retrieved on 2007-02-18.&lt;/ref&gt;&lt;ref&gt;{{cite news|accessdate=2007-05-22|url=http://www.austin360.com/arts/content/arts/stories/2006/04/1austin.html|title=Central Austin has the makings of a museum district|publisher=Austin360.com|author=Jeanne Claire van Ryzin|date=April 1, 2006}}&lt;/ref&gt; Notable facilities include [[The Museum of Fine Arts, Houston|The Museum of Fine Arts]], [[Houston Museum of Natural Science]], the [[Contemporary Arts Museum Houston]], the [[Station Museum of Contemporary Art]], [[Holocaust Museum Houston]], and the [[Houston Zoo]].&lt;ref&gt;[http://www.texasmonthly.com/promotions/cadillac/breakthroughs2/museums/ Houston Museum District Day]. Texas Monthly. 2006. Retrieved on 2007-01-10.&lt;/ref&gt;&lt;ref&gt;[http://www.camh.org/ Home Page]. Contemporary Arts Museum Houston. Retrieved on 2007-01-10.&lt;/ref&gt;&lt;ref&gt;
+[http://www.visithoustontexas.com/visitors/parks_and_outdoors/listing.details.php?id=23096 Houston Museum District]. Greater Houston Convention and Visitors Bureau. Retrieved on 2007-01-10.&lt;/ref&gt; Located near the Museum District are [[Menil Collection|The&amp;nbsp;Menil&amp;nbsp;Collection]], [[Rothko Chapel]], and the [[Byzantine Fresco Chapel Museum]].
+
+[[Bayou Bend Collection and Gardens|Bayou Bend]] is a {{convert|14|acre|adj=on}} facility of the Museum of Fine Arts that houses one of America's best collections of decorative art, paintings and furniture. Bayou Bend is the former home of Houston philanthropist [[Ima Hogg]].&lt;ref&gt;{{cite web
+| title = Bayou Bend Collections and Gardens, Houston, Texas
+| accessdate = 2008-03-23
+| url = http://www.museumsusa.org/museums/info/1167540
+}}&lt;/ref&gt;
+
+The National Museum of Funeral History is located in Houston near the [[George Bush Intercontinental Airport]]. The museum houses the original [[Popemobile]] used by [[Pope John Paul II]] in the 1980s along with numerous hearses, embalming displays and information on famous funerals.
+
+Venues across Houston regularly host local and touring rock, blues, country, dubstep, and Tejano musical acts. While Houston has never been widely known for its music scene,&lt;ref&gt;{{cite news | last = Lomax | first = John Nova | title = Nobody Gets Out of Here Alive - The Houston Rock Scene and the Cultural Cringe | work=The Houston Press | date = 2007-02-01 | accessdate = 2007-02-12}}&lt;/ref&gt;  [[Houston hip hop|Houston hip-hop]] has become a significant, independent music scene that is influential nationwide.&lt;ref&gt;{{cite news | last = Frere-Jones | first = Sasha | title = A Place In the Sun - Houston Hip-Hop Takes Over | work=The New Yorker | date = 2005-11-14 | url = http://www.newyorker.com/archive/2005/11/14/051114crmu_music | accessdate = 2007-02-06}}&lt;/ref&gt;
+
+=== Tourism and recreation ===
+[[Image:Mission control center.jpg|left|thumb|Mission Control Center inside the [[Johnson Space Center]].]]
+[[Image:Discovery green.JPG|thumb|[[Discovery Green]] park in downtown.]]
+The [[Houston Theater District|Theater District]] is a 17-block area in the center of downtown Houston that is home to the [[Bayou Place]] entertainment complex, restaurants, movies, plazas, and parks. Bayou Place is a large multilevel building containing full-service restaurants, bars, live music, billiards, and [[Sundance Cinema]]. The Houston [[Verizon Wireless Theater]], now [[Bayou Music Center]], stages live concerts, stage plays, and stand-up comedy.
+[[Space Center Houston]] is the official visitors' center of [[NASA]]'s [[Lyndon B. Johnson Space Center]]. The Space Center has many interactive exhibits including [[moon rocks]], a shuttle simulator, and presentations about the history of NASA's manned space flight program.  Other tourist attractions include [[The Galleria (Houston)|the&amp;nbsp;Galleria]] (Texas's [[List of largest shopping malls in the United States|largest]] shopping mall located in the Uptown District), Old Market Square, the [[Downtown Aquarium, Houston|Downtown Aquarium]], and [[Sam Houston Race Park]].
+ 
+Of worthy mention are Houston's [[Chinatown, Houston|current Chinatown]] and the [[Mahatma Gandhi District]]. Both areas offer  a picturesque view of Houston's multicultural makeup. Restaurants, bakeries, traditional-clothing boutiques and specialty shops can be found in both areas. 
+[[Image:GalleriaOne.jpg|left|thumb|The Galleria in the [[Uptown Houston|Uptown District]] is the largest mall in Texas.]]
+[[Image:Galleriawaterfall.jpg|thumb|[[Gerald D. Hines Waterwall Park]] in [[Uptown Houston|Uptown]]]]
+Houston is home to 337 parks including [[Hermann Park]], [[Terry Hershey Park]], [[Lake Houston|Lake Houston Park]], [[Memorial Park, Houston, Texas|Memorial Park]], [[Tranquility Park]], [[Sesquicentennial Park]], [[Discovery Green]], and [[Sam Houston Park]].  Within Hermann Park are the [[Houston Zoo]] and the [[Houston Museum of Natural Science]].  Sam Houston Park contains restored and reconstructed homes which were originally built between 1823 and 1905.&lt;ref&gt;[http://www.heritagesociety.org/ths.html The Heritage Society: Walk into Houston's Past]. ''The Heritage Society.'' Retrieved on 2007-01-10.&lt;/ref&gt; There is a proposal to open the city's first botanic garden at Herman Brown Park.&lt;ref&gt;Huber, Kathy. &quot;[http://www.chron.com/life/gardening/article/Houston-botanic-garden-slowly-becoming-reality-1896890.php Houston botanic garden slowly becoming reality].&quot; ''[[Houston Chronicle]]''. Monday October 30, 2006. Retrieved on November 14, 2011.&lt;/ref&gt;
+
+Of the 10 most populous U.S. cities, Houston has the most total area of parks and green space, {{convert|56405|acre|km2|0}}&lt;ref&gt;Continental Magazine, March 2008. p.67.&lt;/ref&gt; The city also has over 200 additional green spaces—totaling over {{convert|19600|acre|km2|0}} that are managed by the city—including the [[Houston Arboretum and Nature Center]].  The [[Lee and Joe Jamail Skatepark]] is a public [[skatepark]] owned and operated by the city of Houston, and is one of the largest skateparks in Texas consisting of 30,000 (2,800&amp;nbsp;m2) square foot in-ground facility.  The [[Gerald D. Hines Waterwall Park]]—located in the [[Uptown Houston|Uptown&amp;nbsp;District]] of the city—serves as a popular tourist attraction, weddings, and various celebrations. A 2011 study by Walk Score ranked Houston the 23rd most walkable of the 50 largest cities in the United States.&lt;ref&gt;{{cite web |url=http://www.walkscore.com/rankings/cities/|title=2011 City and Neighborhood Rankings |publisher=Walk Score |year=2011 |accessdate=Aug 28, 2011}}&lt;/ref&gt; [[SplashTown Waterpark Houston]] is a [[water park]] located north of Houston. 
+
+The [[Bayport Terminal|Bayport Cruise Terminal]] on the [[Houston Ship Channel]] will become [[port of call]] for both [[Princess Cruises]] and [[Norwegian Cruise Line]] in 2013-2014.&lt;ref&gt;[http://globenewswire.com/news-release/2012/11/15/505636/10012824/en/Photo-Release-Princess-and-Norwegian-Cruising-Into-Port-of-Houston.html Photo Release -- Princess and Norwegian Cruising Into Port of Houston]&lt;/ref&gt;
+{{clear}}
+
+=== Media ===
+{{Further2|[[List of newspapers in Houston]], [[List of television stations in Texas]], [[List of radio stations in Texas]], [[Magazines in Houston]], and [[List of films featured in Houston]]}}
+
+The primary network-affiliated television stations are [[KPRC-TV]] (NBC), [[KHOU-TV]] (CBS), [[KTRK-TV]] (ABC), and [[KRIV-TV]] (Fox). 
+
+The Houston–Sugar Land–Baytown metropolitan area is served by one public television station and two public radio stations.  [[KUHT]] (''HoustonPBS'') is a [[Public Broadcast Service|PBS]] member station and is the first public television station in the United&amp;nbsp;States.  Houston Public Radio is listener-funded and comprises two [[NPR]] member stations: [[KUHF]] (''KUHF News'') and [[KUHA]] (''Classical 91.7''). KUHF is news/talk radio and KUHA is a classical music station.  The [[University of Houston System|University of Houston&amp;nbsp;System]] owns and holds broadcasting licenses to KUHT, KUHF, and KUHA.  The stations broadcast from the Melcher Center for Public Broadcasting, located on the campus of the [[University of Houston]].
+
+Houston is served by the ''[[Houston Chronicle]]'', its only major daily newspaper with wide distribution. The Hearst Corporation, which owns and operates the ''Houston Chronicle'', bought the assets of the ''[[Houston Post]]''—its long-time rival and main competition—when ''Houston Post'' ceased operations in 1995. The ''Houston Post'' was owned by the family of former Lieutenant Governor [[Bill Hobby]] of Houston. The only other major publication to serve the city is the ''[[Houston Press]]''—a free alternative weekly with a weekly readership of more than 300,000.&lt;ref name=&quot;About&quot;&gt;{{cite web|url=http://www.houstonpress.com/about/|title=Houston Press: About Us|publisher=Houston Press |accessdate=2007-01-26}}&lt;/ref&gt;
+{{clear}}
+
+== Education ==
+{{Main|Education in Houston}}
+[[File:Hisd-hmw-008.JPG|thumb|The Hattie Mae White Educational Support Center (HMWESC), which houses the [[Houston Independent School District]] administrative offices]]
+[[List of school districts in Houston|Seventeen school districts]] exist within the city of Houston. The [[Houston Independent School District]] (HISD) is the seventh-largest school district in the United&amp;nbsp;States.&lt;ref&gt;&quot;[http://www.eschoolnews.com/2006/02/21/houston-isd-automates-lunch/ Houston ISD automates lunch]&quot;, ''eSchool News online'', 2006-02-21. Retrieved on 2006-12-16.&lt;/ref&gt; HISD has [[List of Houston Independent School District schools|112&amp;nbsp;campuses]] that serve as magnet or vanguard schools—specializing in such disciplines as health professions, visual and performing arts, and the sciences. There are also many charter schools that are run separately from school districts. In addition, some public school districts also have their own charter schools.
+
+The Houston area encompasses more than 300 private schools,&lt;ref&gt;[http://www.houston-texas-online.com/privateschools.html Private Schools]. ''Houston-Texas-Online''. 2004. Retrieved on 2007-01-10.&lt;/ref&gt;&lt;ref&gt;[http://www.houstonareaweb.com/private_schools/ Houston Private Schools]. HoustonAreaWeb.com. Retrieved on 2007-01-10.&lt;/ref&gt;&lt;ref&gt;[http://web.archive.org/web/20080101054600/http://www.hlsr.com/ed/sa/sa_p.aspx School Art Participation]. ''[[Houston Livestock Show and Rodeo]]''. Retrieved on 2007-01-10. Archived at the Internet Archive Wayback Machine.&lt;/ref&gt; many of which are accredited by Texas Private School Accreditation Commission recognized agencies. The [[Houston Area Independent Schools]] offer education from a variety of different religious as well as secular viewpoints.&lt;ref&gt;[http://houstonprivateschools.org/index.cfm?CFID=15996033&amp;CFTOKEN=41756059&amp;MenuItemID=96&amp;MenuGroup=Home%20New About HAIS]. ''Houston Area Independent Schools''. 2007. Retrieved on 2007-03-27.&lt;/ref&gt; The Houston area Catholic schools are operated by the [[Roman Catholic Archdiocese of Galveston-Houston|Archdiocese of Galveston-Houston]].
+
+=== Colleges and universities ===
+{{Further2|[[List of colleges and universities in Houston]]}}
+[[File:Lovett Hall.jpg|thumb|left|[[Rice University]]]]
+Four separate and distinct state universities are located in Houston.  The [[University of Houston]] is a nationally recognized Tier&amp;nbsp;One research university, and is the flagship institution of the [[University of Houston System|University of Houston&amp;nbsp;System]].&lt;ref name=&quot;Tier One Research&quot;&gt;{{cite web |url=http://www.uh.edu/news-events/stories/2011articles/Jan2011/011811CarnegieTierOne.php|title=Carnegie Foundation Gives University of Houston its Highest Classification for Research Success, Elevating UH to Tier One Status|author=Bonnin, Richard|publisher=University of Houston |accessdate=2011-02-08}}&lt;/ref&gt;&lt;ref name=&quot;Tier One Research 2&quot;&gt;{{cite news |url=http://www.bizjournals.com/houston/print-edition/2011/01/21/uh-achieves-tier-one-status-in-research.html|title=UH achieves Tier One status in research|work=Houston Business Journal |accessdate=2011-07-06|date=January 21, 2011}}&lt;/ref&gt;&lt;ref name=&quot;Tier One Research 3&quot;&gt;{{cite web |url=http://www.chron.com/disp/story.mpl/metropolitan/7386162.html|title=UH takes big step up to Tier One status|work=Houston Chronicle |accessdate=2011-07-06}}&lt;/ref&gt;  The {{nowrap|third-largest}} university in Texas, the University of Houston has nearly 40,000 students on its 667 acre campus in southeast Houston.&lt;ref name=&quot;State of the University: Fall 2011&quot;&gt;{{cite web | url=http://www.uh.edu/president/communications/university-community/fall-address-highlights/Fall_Address_Slides_10-3-2011.pdf | title=State of the University: Fall 2011 | publisher=University of Houston | date=October 4, 2011 | accessdate=October 5, 2011 | author=Khator, Renu}}&lt;/ref&gt;  The [[University of Houston–Clear Lake|University of Houston–Clear&amp;nbsp;Lake]] and the [[University of Houston–Downtown]] are {{nowrap|stand-alone}} universities; they are not branch campuses of the University of Houston.  Located in the historic community of Third&amp;nbsp;Ward is [[Texas Southern University]], one of the largest historically black colleges and universities in the United&amp;nbsp;States.
+
+Several private institutions of higher learning—ranging from liberal arts colleges to [[Rice University]], the nationally recognized research university—are located within the city. Rice, with a total enrollment of slightly more than 6,000 students, is widely recognized as one of the top twenty universities in the nation, and it has a number of distinguished graduate programs and research institutes such as the James A. Baker Institute for Public Policy. The university's undergraduates are among the most select in the nation.&lt;ref&gt;{{cite web | title = Rice University, Best Colleges 2009 | work=U.S. News &amp; World Report | accessdate = 2009-03-27 | url = http://colleges.usnews.rankingsandreviews.com/college/items/3604}}&lt;/ref&gt;
+
+Three community college districts exist with campuses in and around Houston. The [[Houston Community College System]] serves most of Houston.  The northwestern through northeastern parts of the city are served by various campuses of the [[Lone Star College System]], while the southeastern portion of Houston is served by [[San Jacinto College]], and a northeastern portion is served by [[Lee College]].&lt;!--Huffman ISD--&gt;&lt;ref&gt;&quot;[http://www.lee.edu/about/ About Lee College].&quot; [[Lee College (Texas)|Lee College]]. Retrieved on May 6, 2013.&lt;/ref&gt; The Houston Community College and Lone Star College systems are within the [[List of United States colleges and universities by enrollment#US Department of Education Ranking|10 largest institutions of higher learning]] in the United&amp;nbsp;States.
+{{clear}}
+
+== Healthcare ==
+{{Main|Texas Medical Center}}
+{{See also|List of hospitals in Texas}}
+
+[[Image:Aerial view of Texas Medical Center.jpg|350px|thumb|left|[[Texas Medical Center]]]]
+[[Image:UTMDA1.JPG|thumb|right|MD Anderson Cancer Center]]
+[[Image:Memorial-hermann-hospital.jpg|thumb|right|Memorial Hermann Hospital]]
+Houston is the seat of the internationally renowned Texas Medical Center, which contains the world's largest concentration of research and healthcare institutions.&lt;ref&gt;{{cite web | title = Texas Medical Center - Largest Medical Center (Video HD (English)) | work=Texas Medical Center | accessdate = 2009-03-28
+| url = http://www.texmedctr.tmc.edu/root/en/GetToKnow/TMCVideo/Largest+Medical+Center+Video+%28HD-English%29.htm
+}}&lt;/ref&gt; All 49 member institutions of the Texas Medical Center are non-profit organizations. They provide patient and preventive care, research, education, and local, national, and international community well-being.
+Employing more than 73,600 people, institutions at the medical center include 13 hospitals and two specialty institutions, two medical schools, four nursing schools, and schools of dentistry, public health, pharmacy, and virtually all health-related careers. It is where one of the first—and still the largest—air emergency service, [[Life Flight]], was created, and a very successful inter-institutional transplant program was developed. More heart surgeries are performed at the Texas Medical Center than anywhere else in the world.&lt;ref&gt;{{cite web
+ | title = Texas Medical Center
+ | work=www.visithoustontexas.com
+ | url = http://www.visithoustontexas.com/media/statistics/Houston_Stats_Texas_Medical_Center
+ | accessdate = 2007-02-06 }}&lt;/ref&gt;
+
+Some of the academic and research health institutions at the center include [[University of Texas MD Anderson Cancer Center|MD Anderson Cancer Center]], [[Baylor College of Medicine]], [[University of Texas Health Science Center at Houston|UT Health Science Center]], [[Memorial Hermann-Texas Medical Center|Memorial Hermann Hospital]], [[The Methodist Hospital]], [[Texas Children's Hospital]], and [[University of Houston College of Pharmacy]].
+
+The Baylor College of Medicine has annually been considered within the top ten medical schools in the nation; likewise, the MD Anderson Cancer Center has consistently ranked as one of the top two U.S. hospitals specializing in cancer care by ''U.S. News &amp; World Report'' since 1990.&lt;ref&gt;{{cite web
+ | title = Institutional Profile
+ | work=www.mdanderson.org
+ | url = http://www.mdanderson.org/About_MDA/Who_We_Are/display.cfm?id=29E3FCE1-2828-11D5-811100508B603A14&amp;method=displayFull
+ | accessdate = 2007-02-21 }}&lt;/ref&gt;&lt;ref&gt;{{cite web | title = Rice and Baylor College of Medicine extend MOU | work=Rice University, News &amp; Media
+ | accessdate = 2009-10-11| url = http://www.media.rice.edu/media/NewsBot.asp?MODE=VIEW&amp;ID=13117}}&lt;/ref&gt; The [[Menninger Clinic]], a renowned psychiatric treatment center, is affiliated with Baylor College of Medicine and The Methodist Hospital System.&lt;ref&gt;{{cite web
+| title = Quick Facts About The Menninger Clinic | work=menningerclinic.com, The Menninger Clinic | accessdate = 2009-03-27 | url = http://www.menningerclinic.com/about/facts.htm}}&lt;/ref&gt; With hospital locations nationwide and headquarters in Houston, the Triumph Healthcare hospital system is the third largest long term acute care provider nationally.&lt;ref&gt;{{cite web|url=http://www.ta.com/news/news_detail.asp?id=102 |title=TA Associates - News |publisher=Ta.com |date=2005-09-01 |accessdate=2011-11-04}}&lt;/ref&gt;
+
+== Transportation ==
+{{Main|Transportation in Houston}}
+
+=== Highways ===
+[[Image:45intoI-10 2.jpg|thumb|left|[[Interstate 10 (Texas)|I-10]] and [[Interstate 45|I-45]] interchange]]
+The predominant form of transportation in Houston is the automobile with 71.7 percent of residents driving alone to work&lt;ref&gt;{{cite web |url=http://www.census.gov/prod/1/gen/pio/cay961a2.pdf |format=PDF |title=Census and You |publisher=US Census Bureau |page=12|month=January |year=1996 |accessdate=2007-02-19}}&lt;/ref&gt; This is facilitated through [[List of Houston highways|Houston's freeway]] system, comprising {{convert|739.3|mi|km|1}} of freeways and expressways in a ten-county metropolitan area.&lt;ref&gt;&quot;{{PDFlink|[http://www.houston.org/pdf/research/11BW001.pdf Highway System]|153&amp;nbsp;KB}}&quot;, ''Greater Houston Partnership''. Retrieved on 2009-03-21.&lt;/ref&gt; However, the [[Texas Transportation Institute]]'s annual Urban Mobility Report found that Houston had the fourth-worst congestion in the country with commuters spending an average of 58 hours in traffic in 2009.&lt;ref&gt;{{cite news|title=Which cities have the worst traffic?|url=http://news.blogs.cnn.com/2011/01/20/which-cities-have-the-worst-traffic/|publisher=CNN|accessdate=August 15, 2011|date=January 20, 2011}}&lt;/ref&gt;
+
+Houston's highway system has a [[Spoke-hub distribution paradigm|hub-and-spoke]] freeway structure serviced by multiple loops. The innermost loop is [[Interstate 610 (Texas)|Interstate 610]], which encircles downtown, the medical center, and many core neighborhoods with around a {{convert|10|mi|km|0|sing=on}} diameter. [[Texas State Highway Beltway 8|Beltway&amp;nbsp;8]] and its freeway core, the Sam Houston Tollway, form the middle loop at a diameter of roughly {{convert|25|mi|km|0}}. A proposed highway project, [[Texas State Highway 99|State Highway&amp;nbsp;99]] (Grand Parkway), would form a third loop outside of Houston. As of 2010, only two out of eleven segments of State Highway 99 have been completed. Houston is located along the route of the proposed [[Interstate 69 (Texas)|Interstate 69]] [[North American Free Trade Agreement|NAFTA]] superhighway that would link Canada, the U.S. industrial [[Midwestern United States|Midwest]], Texas, and Mexico. Other spoke freeways either planned or under construction include the [[Fort Bend Parkway]], [[Hardy Toll Road]], [[U.S. Highway 90 (Texas)|Crosby&amp;nbsp;Freeway]], and the future [[Texas State Highway 35|Alvin Freeway]].
+
+Houston's freeway system is monitored by [[Houston TranStar]]—a partnership of four government agencies that are responsible for providing transportation and [[emergency management]] services to the [[Greater Houston|region]].&lt;ref&gt;[http://www.houstontranstar.org/about_transtar/ About Houston TranStar]. ''Houston TranStar.'' 2008. Retrieved on 2008-02-17.&lt;/ref&gt;
+{{clear}}
+[[Image:METRO Light Rail3.jpg|thumb|right|[[METRORail]] light rail]]
+
+=== Transit systems ===
+The [[Metropolitan Transit Authority of Harris County]] (METRO) provides public transportation in the form of buses, light rail, and lift vans. METRO's various forms of public transportation still do not connect many of the suburbs to the greater city.
+
+METRO began light rail service on January 1, 2004 with the inaugural track (&quot;Red&amp;nbsp;Line&quot;) running about {{convert|8|mi|km}} from the University of {{nowrap|Houston–Downtown}} (UHD), which traverses through the Texas Medical Center and terminates at Reliant&amp;nbsp;Park. METRO is currently in the design phase of a 10-year expansion plan that will add five more lines.&lt;ref&gt;{{cite web| title = Metro Solutions, Phase 1 and Phase 2 | work=Metropolitan Transit Authority of Harris County| accessdate = 2009-03-28 | url = http://www.metrosolutions.org/posted/1068/5_CORR_Brd_Aprvd_w_stat_30x40_v09100web_252126.252126.pdf |format=PDF|archiveurl=http://web.archive.org/web/20090216085852/http://metrosolutions.org/posted/1068/5_CORR_Brd_Aprvd_w_stat_30x40_v09100web_252126.252126.pdf|archivedate=2009-02-16}}&lt;/ref&gt; and expand the current Red Line. [[Amtrak]], the national rail passenger system, provides service to Houston via the {{Amtrak lines|Sunset Limited}} (Los&amp;nbsp;Angeles–New&amp;nbsp;Orleans), which stops at a [[Houston (Amtrak station)|train station]] on the north side of the downtown area. The station saw 14,891 boardings and alightings in fiscal year 2008.&lt;ref&gt;{{cite web | title = Amtrak Fact Sheet, Fiscal Year 2008, State of Texas | work=amtrak.com, Amtrak | accessdate = 2009-03-28 | url = http://www.amtrak.com/pdf/factsheets/TEXAS08.pdf|format=PDF}}&lt;/ref&gt;
+
+=== Cycling ===
+Houston has the largest number of bike commuters in Texas with over 160 miles of dedicated bikeways.&lt;ref&gt;{{cite web|url=http://blog.chron.com/txpotomac/2012/06/houston-to-receive-15-million-from-department-of-transportation-for-eco-friendly-infrastructure/ |title=Houston to receive $15 million from Department of Transportation for eco-friendly infrastructure &amp;#124; Texas on the Potomac &amp;#124; a Chron.com blog |publisher=Blog.chron.com |date=2012-06-20 |accessdate=2013-06-28}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://houstonbikeways.org/index.php/home/ |title=Home |publisher=Houstonbikeways.org |date= |accessdate=2013-06-28}}&lt;/ref&gt; The city is currently in the process of expanding its on and off street bikeway network.&lt;ref&gt;{{cite web|url=http://houstonbikeways.org/index.php/news/20-current-news/81-new-shared-lane-designation |title=New Shared Lane Designation |publisher=Houstonbikeways.org |date= |accessdate=2013-06-28}}&lt;/ref&gt;  A new [[Bicycle sharing system]] known as [http://houston.bcycle.com/ Houston B-Cycle] currently operates 11 different stations in the downtown area and 7 in other parts of Houston.&lt;ref&gt;{{cite web|url=http://www.houstontx.gov/mayor/press/20130403.html |title=Press Release |publisher=Houstontx.gov |date= |accessdate=2013-06-28}}&lt;/ref&gt;
+
+=== Airports ===
+[[Image:Bush terminal E.jpg|thumb|left|[[George Bush Intercontinental Airport]]]]
+Houston is served by three airports, two of which are commercial that served 52&amp;nbsp;million passengers in 2007 and managed by the [[Houston Airport System]].&lt;ref&gt;{{cite web
+| title = 52 Million Travelers and Over 387,000 Metric Tons of Air Cargo Passed through Houston's Airports in 2007
+| date = 2008-01-28
+| work=fly2houston.com, Houston Airport System
+| accessdate = 2008-06-21
+| url = http://www.fly2houston.com/0/685923/0/1906D1940/
+}}&lt;/ref&gt; The [[Federal Aviation Administration]] and the state of Texas selected the &quot;Houston Airport System as Airport of the Year&quot; for 2005,&lt;ref&gt;{{cite press release|title=FAA selects the HAS as 2005 Airport of the Year|publisher=Houston Airport System|date=2006-03-24|url=http://www.fly2houston.com/0/8343/0/1906D1940/|accessdate=2006-12-16}}&lt;/ref&gt; largely because of its multi-year, $3.1&amp;nbsp;billion airport improvement program for both major airports in Houston.
+
+The primary city airport is [[George Bush Intercontinental Airport]] (IAH), the sixth-busiest in the United States for total passengers, and fourteenth-busiest worldwide.&lt;ref&gt;{{cite web | title = Statistics: Top 30 World Airports by Passengers | work=Airports Council International | accessdate = 2009-03-28 | url = http://www.aci.aero/aci/aci/file/Press%20Releases/2008/TOP30_Passengers_2007.pdf|format=PDF}}&lt;/ref&gt; Bush Intercontinental currently ranks third in the United States for non-stop domestic and international service with 182 destinations.&lt;ref&gt;[http://www.fly2houston.com/iahAbout About George Bush Intercontinental Airport]. ''Houston Airport System.'' Retrieved on 2007-01-11.&lt;/ref&gt; In 2006, the [[United States Department of Transportation]] named [[George Bush Intercontinental Airport]] the fastest-growing of the top ten airports in the United States.&lt;ref&gt;{{cite press release|title=2005 Total Airline System Passenger Traffic Up 4.6% From 2004|publisher=[[Bureau of Transportation Statistics]]|date=2006-04-27|url=http://www.bts.gov/press_releases/2006/bts020_06/html/bts020_06.html |accessdate=2006-12-16}}&lt;/ref&gt;  The [[Houston Air Route Traffic Control Center]] stands on the George Bush Intercontinental Airport grounds.
+
+Houston was the headquarters of [[Continental Airlines]] until its 2010 merger with [[United Airlines]] with headquarters in Chicago; regulatory approval for the merger was granted in October of that year. Bush Intercontinental became United Airline's largest [[airline hub]].&lt;ref&gt;{{cite web | title = United Continental Holdings, Inc. - Investor Relations - News | accessdate = 2011-05-26
+| url = http://ir.united.com/phoenix.zhtml?c=83680&amp;p=irol-newsArticle&amp;ID=1566843&amp;highlight=}}&lt;/ref&gt; The airline retained a significant  operational presence in Houston while offering more than 700 daily departures from the city.&lt;ref&gt;[http://www.fly2houston.com/iahAbout Facts and Figures]. ''Houston Airport System.'' 2007. Retrieved on 2007-02-28.&lt;/ref&gt;&lt;ref&gt;{{cite web
+| title = United And Continental Announce Merger Of Equals To Create World-Class Global Airline
+| accessdate = 2011-06-04
+| url = http://www.united.com/press/detail/0,7056,62956,00.html
+}}&lt;/ref&gt; In early 2007, Bush Intercontinental Airport was named a model &quot;port of entry&quot; for international travelers by U.S. Customs and Border Protection.&lt;ref&gt;{{cite web
+| title = Airport designated `model port of entry', Houston Chronicle
+| author=Bill Hensel, Jr.
+| date = 2007-04-05
+| work=chron. com
+| accessdate = 2008-06-21
+| url = http://www.chron.com/CDA/archives/archive.mpl?id=2007_4319002
+}}&lt;/ref&gt;
+
+The second-largest commercial airport is [[William P. Hobby Airport]] (named Houston International Airport until 1967) which operates primarily small to medium-haul domestic flights. Houston's aviation history is showcased in the [[1940 Air Terminal Museum]] located in the old terminal building on the west side of the airport. Hobby Airport has been recognized with two awards for being one of the top five performing airports in the world and for customer service by [[Airports Council International]].&lt;ref&gt;{{cite web
+| title = William P. Hobby Airport Rated Among Top Five Performing Airports Worldwide
+| work=Houston Airport System
+| date = 2009-03-10
+| accessdate = 2009-03-28
+| url = http://www.fly2houston.com/0/1650213/0/1906/
+}}&lt;/ref&gt;
+
+Houston's third municipal airport is [[Ellington Airport (Texas)|Ellington Airport]] (a former U.S. Air Force base) used by military, government, [[NASA]], and general aviation sectors.&lt;ref&gt;{{cite web | title = About Ellington Airport | work=Houston Airport System | accessdate = 2009-03-28 | url = http://www.fly2houston.com/EllingtonAbout}}&lt;/ref&gt;
+{{clear}}
+
+== Architecture ==
+[[Image:Three Eras - Houston.jpg|alt=Three skyscrapers visually overlap each other. The simple, rectangular tiers of JPMorgan Chase Building contrast with the five-sided tower of the Pennzoil building and the stepped  rows of spires of the Bank of America building.| thumb|Three eras of buildings in Houston: [[JPMorgan Chase Building (Houston)|JPMorgan Chase Building]] (1920s), [[Pennzoil Place]] (1970s), and [[Bank of America Center (Houston)|Bank of America Center]] (1980s)]]
+[[Image:Houston night.jpg|thumb|left|The northern side of [[Downtown Houston]] at night, revealing buildings of various styles and eras.]]
+{{Main|Architecture of Houston}}
+{{See also|List of tallest buildings in Houston}}
+Houston has the third tallest skyline in North America and one of the top 10 in the world.&lt;ref&gt;{{cite web | title = World's Ten Tallest Cities
+| work=Ultrapolis Project| accessdate = 2010-01-21| url = http://www.ultrapolisproject.com/ultrapolis_world_tallest_skylines_cities.htm
+}}&lt;/ref&gt;&lt;ref&gt;&quot;[http://ultrapolisproject.com/Tallest_25_Skylines_Cities.htm Calculated Average Height of the Ten Tallest (CAHTT)]&quot;, ''UltrapolisProject.com''. Retrieved on 2007-07-01.&lt;/ref&gt; A seven-mile (11&amp;nbsp;km) [[Houston Downtown Tunnel System|system of tunnels and skywalks]] link downtown buildings containing shops and restaurants, enabling pedestrians to avoid summer heat and rain while walking between buildings.
+
+In the 1960s, [[Downtown Houston]] consisted of a collection of mid-rise office structures. Downtown was on the threshold of an energy industry led boom in 1970. A succession of skyscrapers were built throughout the 1970s—many by real estate developer [[Gerald D. Hines]]—culminating with Houston's tallest skyscraper, the 75-floor, {{convert|1002|ft|m|0|sing=on}}-tall [[JPMorgan Chase Tower (Houston)|JPMorgan Chase Tower]] (formerly the Texas Commerce Tower),  completed in 1982. It is the tallest structure in Texas, [[List of tallest buildings in the United States|10th tallest]] building in the United States and the [[List of tallest buildings in the world|30th tallest]] skyscraper in the world, based on height to roof. In 1983, the 71-floor, {{convert|992|ft|m|0|sing=on}}-tall [[Wells Fargo Plaza (Houston)|Wells Fargo Plaza]] (formerly Allied Bank Plaza) was completed, becoming the second-tallest building in Houston and Texas. Based on height to roof, it is the 13th tallest in the United States and the 36th tallest in the world. As of 2007, downtown Houston had over 43&amp;nbsp;million square feet (4,000,000&amp;nbsp;m²) of office space.&lt;ref&gt;[http://www.houstondowntown.com/Home/GeneralInfo/About/FastFacts1/ Fast Facts, Downtown Houston]{{dead link|date=November 2011}}. ''Houstondowntown.com'' 2006. Retrieved on 2007-01-10.&lt;/ref&gt;
+
+Centered on Post Oak Boulevard and Westheimer Road, the [[Uptown Houston|Uptown District]] boomed during the 1970s and early 1980s when a collection of mid-rise office buildings, hotels, and retail developments appeared along Interstate&amp;nbsp;610 west. Uptown became one of the most prominent instances of an [[edge city]]. The tallest building in Uptown is the 64-floor, {{convert|901|ft|m|0|sing=on}}-tall, [[Philip Johnson]] and [[John Burgee]] designed landmark [[Williams Tower]] (known as the Transco Tower until 1999). At the time of construction, it was believed to the be the world's tallest skyscraper outside of a central business district. The Uptown District is also home to buildings designed by noted architects  [[I. M. Pei]], [[César Pelli]], and [[Philip Johnson]]. In the late 1990s and early 2000s decade, there was a mini-boom of mid-rise and high-rise [[Tower block|residential tower]] construction, with several over 30 stories tall.&lt;ref&gt;[http://www.uptown-houston.com/economic/market/residential.html Residential Real Estate]{{dead link|date=November 2011}}. ''Uptown-houston.com'' Retrieved on 2007-01-11.&lt;/ref&gt;&lt;ref&gt;{{cite news | last = Sarnoff | first = Nancy | title = Genesis Laying Down Plans for Newest Uptown Condo Highrise | work=Houston Business Journal | date = 2001-12-14 | url = http://www.bizjournals.com/houston/stories/2001/12/17/newscolumn3.html | accessdate = 2007-02-07}}&lt;/ref&gt;&lt;ref&gt;{{cite news | last = Apte | first = Angela | title = Rising Land Costs Boost Houston's Mid-Rise Market | work=Houston Business Journal | date = 2001-10-26 | url = http://www.bizjournals.com/houston/stories/2001/10/29/focus1.html | accessdate = 2007-01-11}}&lt;/ref&gt; In 2002, Uptown had more than 23&amp;nbsp;million square feet (2,100,000&amp;nbsp;m²) of office space with 16&amp;nbsp;million square feet (1,500,000&amp;nbsp;m²) of [[Class A office space]].&lt;ref&gt;[http://www.uptown-houston.com/economic/market/office.html Commercial Real Estate]{{dead link|date=November 2011}}. ''Uptown-houston.com'' Retrieved on 2007-01-10.&lt;/ref&gt;
+{{clear}}
+
+&lt;center&gt;
+&lt;gallery&gt;
+File:Niels Esperson Building.jpg|The Niels Esperson Building stood as the tallest building in Houston from 1927 to 1929.
+File:Chase Tower, a block away.jpg|The JP Morgan Chase Tower is the tallest building in Texas and the tallest 5-sided building in the world.
+File:Williamstower.jpg|The [[Williams Tower]] in the [[Uptown Houston|Uptown District]] is the tallest building in the United States outside of a central business district.
+File:Bank of America Center Houston 1.jpg|The Bank of America Center is an example of [[postmodern architecture]] construction designed by award winning architect [[Philip Johnson]].
+File:JPMorgan Chase Tower, Houston, Texas.jpg|JPMorgan Chase Tower in Houston, Texas is the tallest composite building in the world
+&lt;/gallery&gt;
+&lt;/center&gt;
+
+== Sports ==
+{{Main|Sports in Houston}}
+[[Image:MainEvent.jpg|right|thumb|Revelers at &quot;The Main Event&quot; held Downtown during [[Super Bowl XXXVIII]]]]
+[[File:Reliantstadium.jpg|thumb|left|[[Reliant Stadium]] is the home of the [[Houston Texans]].]] 
+[[File:Minutemaidpark.jpg|thumb|left|[[Minute Maid Park]] is the home of the [[Houston Astros]].]]
+[[File:BBVA Compass Stadium, Skyline View.JPG|thumb|left|[[BBVA Compass Stadium]] is the home of the [[Houston Dynamo]].]] 
+[[File:Toyota Center entr.jpg|thumb|[[Toyota Center]] is the home of the [[Houston Rockets]] and the [[Houston Aeros]].]] 
+Houston has sports teams for every major professional league, except the [[National Hockey League]]. The city currently hosts three of the four major sports in the United States: The [[Houston Astros]] is an [[Major League Baseball|MLB]] expansion team formed in 1962 (as the Colt .45s until 1965), who made one [[World Series]] appearance ([[2005 World Series|2005]]), the [[Houston Rockets]], who was formed in 1967 in [[San Diego]] and relocated in 1971 (and have won 2 [[National Basketball Association|NBA]] Championships), and the [[Houston Texans]] of the [[National Football League|NFL]].
+
+[[Minute Maid Park]] (home of the [[Houston Astros|Astros]]) and [[Toyota Center (Houston)|Toyota&amp;nbsp;Center]] (home of the [[Houston Rockets|Rockets]] and [[Houston Aeros|Aeros]]), are located in Downtown.  Houston has the NFL's first retractable-roof stadium, [[Reliant Stadium]] (home of the [[Houston Texans|Texans]]). Minute Maid Park is also a retractable-roof stadium. The Toyota Center also has the largest screen for an indoor arena in the world built to coincide with the arena's hosting of the [[2013 NBA All-Star Game]]. [[BBVA Compass Stadium]] is a soccer-specific stadium for the [[Houston Dynamo|Dynamo]], located in East Downtown ([[EaDo]]). In addition, [[Reliant Astrodome|Reliant&amp;nbsp;Astrodome]] was the first indoor stadium in the world, built in 1965.  Other sports facilities include  [[Hofheinz Pavilion|Hofheinz&amp;nbsp;Pavilion]] (Houston&amp;nbsp;Cougars basketball), [[Rice Stadium (Rice University)|Rice&amp;nbsp;Stadium]] ([[Rice Owls|Rice&amp;nbsp;Owls]] football), and [[Reliant Arena]]. A [[New Houston Cougars Stadium|new football stadium]] is currently under construction for the [[Houston Cougars|Houston&amp;nbsp;Cougars]] football team, and is scheduled to open by August 2014.
+
+Houston has hosted several major sports events: The [[1968 MLB All-Star Game]], the [[1989 NBA All-Star Game|1989]], [[2006 NBA All-Star Game|2006]] and [[2013 NBA All-Star Game]], [[Super Bowl VIII]] and [[Super Bowl XXXVIII]], as well as hosting the [[2005 World Series]] and [[1981 NBA Finals|1981]], [[1986 NBA Finals|1986]], [[1994 NBA Finals|1994]] and [[1995 NBA Finals]], winning the latter two.  Super Bowl LI is currently slated to be hosted in Houston's Reliant Stadium in 2017.
+
+Houston was home to the now defunct WNBA [[Houston Comets|Comets]] from 1997 to 2008. The Comets won 4 WNBA Championships (all consecutive) which is still the most championships of any sports team in Houston, and the biggest title streak in Texas. The AFL/NFL [[Houston Oilers|Oilers]] called Houston home from 1960 to 1997 when the team moved to Tennessee and became the [[Tennessee Titans|Titans]]. 
+
+The city has hosted several major professional and college sporting events, including the annual  [[Shell Houston Open]] golf tournament.  Houston hosts the annual NCAA College Baseball Minute Maid Classic every February and NCAA football's [[Texas Bowl]] in December.
+
+The Shell and Pennzoil [[Grand Prix of Houston]] is an annual [[auto racing|auto race]] on the [[IndyCar Series]] circuit.  The race is held on a 1.7-mile temporary street circuit in [[Reliant Park]]. The next event will be held in October, [[2013 IndyCar Series season|2013]] sponsored by [[Royal Dutch Shell]] and using a tweaked version of the 2006-2007 course.&lt;ref&gt;{{cite news|url=http://www.indycar.com/News/2012/March/3-28-Houston-added-to-2013-schedule|title=Houston, we have liftoff for October 2013 event|first=Dave|last=Lewandowski|work=[[IndyCar Series]]|publisher=[[IndyCar]]|date=March 28, 2012|accessdate=March 28, 2012}}&lt;/ref&gt;  The event has a 5-year race contract through 2017 with IndyCar and Shell, using its Pennzoil brand of motor oil, is signed for 4-years as the event's title sponsor.&lt;ref&gt;{{cite web|url=http://www.chron.com/sports/article/IndyCar-s-coming-to-town-Houston-race-slated-for-3442320.php |title=IndyCar's coming to town: Houston race slated for 2013 - Houston Chronicle |publisher=Chron.com |date=2012-03-28 |accessdate=2013-06-28}}&lt;/ref&gt;
+{{clear}}
+
+== Crime ==
+[[File:Houston Police Department memorial.jpg|thumb|Houston Police Department Memorial]]
+Houston's murder rate ranked 46th of U.S. cities with a population over 250,000 in 2005 (per capita rate of 16.3 murders per 100,000 population).&lt;ref&gt;&quot;{{PDFlink|[http://www.morganquitno.com/cit05r.pdf Murder Rate in 2005]|30.4&amp;nbsp;KB}},&quot; ''[[Morgan Quitno]]''. Retrieved on November 29, 2006.&lt;/ref&gt; In 2010, the city's murder rate (per capita rate of 11.8 murders per 100,000 population) was ranked fifth among U.S. cities with a population of over 750,000 (behind New York City, Chicago, Detroit, Dallas, and Philadelphia)&lt;ref&gt;FBI Uniform 2010 (prov.) Crime Report Table 4 &quot;[http://www.fbi.gov/about-us/cjis/ucr/crime-in-the-u.s/2010/preliminary-annual-ucr-jan-dec-2010/data-tables/table-4/table-4/view]''. Retrieved on July 6, 2011.&lt;/ref&gt; according to the FBI.
+
+Murders fell by 37&amp;nbsp;percent from January to June 2011, compared with the same period in 2010. Houston's total crime rate including violent and nonviolent crimes decreased by 11&amp;nbsp;percent.&lt;ref name=&quot;Murder, other crimes drop in Hoston&quot;&gt;Lee, Renee C.. &quot;[http://www.chron.com/disp/story.mpl/metropolitan/7669040.html Murder, other crimes drop in Hoston]&quot;, ''[[Houston Chronicle]]'', July 26, 2011, p. B2. Retrieved 2006-07-26.&lt;/ref&gt;
+
+Houston is a significant hub for trafficking of [[cocaine]], [[marijuana]], [[heroin]], [[MDMA]], and [[methamphetamine]] due to its size and proximity to major illegal drug exporting nations.&lt;ref&gt;&quot;[http://www.usdoj.gov/ndic/pubs32/32771/distribution.htm Distribution - Houston High Intensity Drug Trafficking Area Drug Market Analysis 2009].&quot; ''[[U.S. Department of Justice]]''. Retrieved on August 11, 2009.&lt;/ref&gt;  
+
+In the early 1970s, Houston, [[Pasadena, Texas|Pasadena]] and several coastal towns were the site of the [[Houston Mass Murders]], which at the time were the deadliest case of [[serial killing]] in American history.&lt;ref&gt;{{cite news | title = CRIME: The Houston Horrors | work=TIME Magazine | date = 1973-08-20 | accessdate = 2010-05-02 | url = http://www.time.com/time/magazine/article/0,9171,907718-1,00.html
+}}&lt;/ref&gt;&lt;ref&gt;{{cite web | title = Beaver Country Times | accessdate = 2010-05-02 | url = http://news.google.com/newspapers?id=D4MkAAAAIBAJ&amp;sjid=ANoFAAAAIBAJ&amp;pg=4597,220911&amp;dq}}&lt;/ref&gt;
+{{clear}}
+
+==See also==
+{{portal|Texas|Houston}}
+{{clear}}
+
+== References ==
+{{Reflist|30em}}
+
+== Further reading ==
+{{refbegin|30em}}
+* {{Handbook of Texas|id=hdh03|name=Houston, Texas}}
+* [http://www.city-journal.org/2008/18_3_houston.html Houston, New York Has a Problem, ''City Journal,'' Summer 2008]
+* [http://www.houstonhistory.com/ 174 Years of Historic Houston] ''Houstonhistory.com''. 2007. Retrieved on 2007-01-13.
+* [http://texashistory.unt.edu/permalink/meta-pth-24649:1 ''A thumb-nail history of the city of Houston, Texas, from its founding in 1836 to the year 1912''], published 1912, hosted by the [http://texashistory.unt.edu/ Portal to Texas History], republished 2007 by Copano Bay Press.
+* [http://texashistory.unt.edu/permalink/meta-pth-24646:1 ''True stories of old Houston and Houstonians: historical and personal sketches / by S. O. Young.''], published 1913, hosted by the [http://texashistory.unt.edu/ Portal to Texas History], republished 2007 by Copano Bay Press.
+* {{cite book | last = Allen | first = O. Fisher | title = City of Houston from Wilderness to Wonder | publisher=Self Published | year = 1936 | id = NA }}.
+* {{cite book | last = Johnston | first = Marguerite | title = Houston, The Unknown City, 1836–1946 | publisher=Texas A&amp;M University Press | year = 1991 | isbn = 0-89096-476-9 }}
+* {{cite book | last = Miller | first = Ray | title = Ray Miller's Houston | publisher=Gulf Publishing Company | year = 1984 | isbn = 0-88415-081-X | authorlink = Ray Miller (Texas journalist) }}
+* {{cite book | last = Slotboom | first = Oscar F. &quot;Erik&quot; | title = Houston Freeways | publisher=Oscar F. Slotboom | year = 2003 | isbn = 0-9741605-3-9 }}[http://www.houstonfreeways.com/]
+* {{cite book | last = Wilson | first = Ann Quin | title = Native Houstonian – A Collective Portrait | publisher=The Donning Company – Houston Baptist University Press | year = 1982 | id = 80-27644 }}
+{{refend}}
+
+== External links ==
+{{sister project links}}
+* [http://www.houstontx.gov/ City of Houston official website]
+* [http://www.visithoustontexas.com/ Greater Houston Convention &amp; Visitors Bureau]
+* [http://www.houstontranstar.org/ Greater Houston Transportation and Emergency Management Center]
+* [http://www.houstonlibrary.org/ Houston Public Library official website]
+* {{dmoz|Regional/North_America/United_States/Texas/Localities/H/Houston/}}
+* {{Wikivoyage}}
+{{Houston, Texas}}
+{{Houston-Sugar Land-Baytown MSA}}
+{{Texas}}
+{{Navboxes
+|title=Other articles related to Houston
+|list=
+{{Harris County, Texas}}
+{{Fort Bend County, Texas}}
+{{Montgomery County, Texas}}
+{{Texas county seats}}
+{{Texas cities and mayors of 100,000 population}}
+}}
+{{Featured article}}
+
+[[Category:Houston, Texas| ]]
+[[Category:Cities in Texas]]
+[[Category:Populated coastal places in Texas]]
+[[Category:Populated places established in 1836]]
+[[Category:Populated places in Fort Bend County, Texas]]
+[[Category:Populated places in Harris County, Texas]]
+[[Category:Populated places in Montgomery County, Texas]]
+[[Category:Populated places in the United States with Hispanic plurality populations]]
+[[Category:Port cities and towns of the United States Gulf Coast]]
+[[Category:Capitals of former nations]]
+
+{{Link FA|ml}}
+{{Link GA|ja}}
+{{Link GA|ru}}
+{{Link FA|ru}}</text>
+      <sha1>2829o219vlf7bjz4yvpzc72rcet9ij3</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

@@ -1,0 +1,11 @@
+COMMANDS
+========
+    $ mkdir
+    $ mkdir -p
+    $ rm -rf
+
+GOALS
+=====
+1. create a directory called `new-york' using `mkdir`
+2. create a directory called `texas/travis/austin` using `mkdir -p`
+3. remove a directory called `california' using `rm -rf`

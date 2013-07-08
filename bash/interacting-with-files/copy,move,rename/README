@@ -1,0 +1,16 @@
+COMMANDS
+========
+    $ cp
+    $ cp -r
+    $ mv
+    $ rm
+    $ rm -rf
+
+GOALS
+=====
+1. move all the files from the subdirectory maine/ to the subdirectory 
+   florida/ using `mv`
+2. remove the subdirectory texas/nice-weather using `rm -rf`
+3. remove the file `dodo` using `rm`
+4. copy the subdirectory texas/ to independent-republic-of-texas/ using `cp -r`
+5. copy the file bald-eagle to wyoming/ montana/ idaho/ using `cp`

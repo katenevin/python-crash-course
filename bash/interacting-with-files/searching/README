@@ -1,0 +1,13 @@
+COMMANDS
+========
+    $ find -name
+    $ find -iname
+    $ grep -iR
+
+GOALS
+=====
+1. find the file named `Carmen Sandiego' using `find -name'
+2. find the subdirectory `tamms' using `find -iname' and move
+   Carmen to there using `mv'
+3. find the file containing `alamo' using `grep -iR' (recursive search,
+   case-insensitive) and move it to `Texas/San Antonio'

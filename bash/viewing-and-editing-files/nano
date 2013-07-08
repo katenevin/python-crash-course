@@ -1,0 +1,10 @@
+`nano` is a very simple text editor that is included with Ubuntu.
+
+Some distributions include a similar text editor called `pico`
+
+The basic commands are listed at the bottom of the screen.
+
+The carat in ^O denotes the use of the control key. To write this file,
+press CONTROL+O
+
+To exit, press CONTROL+X.
