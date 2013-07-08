@@ -181,7 +181,7 @@ assert ' '.join(['too', 'much', 'confusion']) == 'too much confusion'
 # int, long, float
 # ################
 
-# python has a rich numeric tower, so you usually don't have to worry
+# Python has a rich numeric tower, so you usually don't have to worry
 #   about the distinction between ints and longs
 
 # note that the largest int you can represent can be found by sys.maxint
@@ -192,8 +192,46 @@ assert maxint == 2**(64-1)-1 # on 64-bit systems
 assert float(1) == 1.0
 assert int(1.0) == 1
 
+# with our from __future__ import division feature, we
+#   get automatic promotion to floats on division
+#   while retaining the ability to do truncating division
+assert type(5/2) is float
+assert type(5//2) is int
+
 # bool & True, False 
 # ##################
 
+# Python has a boolean type that takes one of two strict values: True
+#   and False
+
+assert True
+assert not False
+
+# True equivalent values
+assert bool(1) is True
+assert bool([0]) is True
+assert bool('a') is True
+
+# False equivalent values
+assert bool(0) is False
+assert bool([]) is False
+assert bool('') is False
+
 # None
 # ####
+
+# Python has no concept of pointers, so there is no NULL pointer analogue
+
+# However, there is a None type, which is often used as a convenience to
+#   indicates some state in tristate logic: not applicable, missing, 
+#   not found, lack of answer, unitialised
+
+# like True, False, there is only one value for this type
+
+assert None is None
+
+x = None
+assert x is None
+
+x = [1,2,3]
+assert x is not None
