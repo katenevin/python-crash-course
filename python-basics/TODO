@@ -1,0 +1,18 @@
+done:
+	README
+	expressions.py
+	functions.py
+	helpyourself.py
+	running.sh
+
+jb:
+	classes.py
+	statements.py
+	modules.py
+	stdlib.py
+
+vjp:
+	builtins.py
+	datatypes.py
+	future.py
+	names.py
