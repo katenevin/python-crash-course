@@ -1,0 +1,5 @@
+What's a commit hash?
+
+A commit hash identifies a snapshot of your repository uniquely.
+Commit hashes can be merged, checked out, etc. just like branches.
+When tracking changes to your repository, hashes are your anchors to changesets.

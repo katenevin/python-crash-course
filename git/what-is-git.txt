@@ -1,0 +1,5 @@
+What is git?
+
+Git is a distributed version control system.
+Git allows you to track changes to your project files and manage those changes over time and between "branches".
+Git's core functionality can be compared to SVN, CVS, and mercurial, to name a few.

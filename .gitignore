@@ -1,0 +1,5 @@
+*.sw*
+*~
+git/clone1
+git/clone2
+git/repo

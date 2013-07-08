@@ -1,0 +1,5 @@
+Why should I use branches?
+
+Branches allow for a version of your repository to be kept isolated from other while you make changes.
+Common uses for branches include feature development and bug fixing.
+When a branch is ready for the world to see, you can merge it into other branches, bringing your changes along with it.

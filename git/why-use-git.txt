@@ -1,0 +1,5 @@
+Why use git?
+
+You can use git to track any type of file you'd like.
+Git's distributed nature means that you can use it anywhere, with or without a network connection.
+Even without cloned repositories, git can help you manage your files and fix unintended modifications.
