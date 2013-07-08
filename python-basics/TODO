@@ -5,10 +5,10 @@ done:
 	helpyourself.py
 	running.sh
 	classes.py
+	modules.py
+	statements.py
 
 jb:
-	statements.py
-	modules.py
 	stdlib.py
 
 vjp:
