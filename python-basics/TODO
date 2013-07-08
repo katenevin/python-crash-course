@@ -4,9 +4,9 @@ done:
 	functions.py
 	helpyourself.py
 	running.sh
+	classes.py
 
 jb:
-	classes.py
 	statements.py
 	modules.py
 	stdlib.py
