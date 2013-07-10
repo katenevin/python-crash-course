@@ -11,6 +11,8 @@ while read -e -p "> " input; do
             cat ${txts[$i]}
             echo ""
             i=$((i+1))
+        else
+            break
         fi
     else
         $input
