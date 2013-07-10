@@ -1,0 +1,18 @@
+navigating the shell:
+ls
+cd
+rm
+cp
+mkdir
+git
+ssh
+
+git commands:
+git clone
+git pull
+git add
+git commit
+git push
+git diff
+git log
+git status
