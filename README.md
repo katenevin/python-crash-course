@@ -1,1 +1,1 @@
-A readme for this repository
+A useless readme for this repository
