@@ -37,11 +37,10 @@ $ pushd
 
 -------------------------------------------------------------------------------
 
-We've created links to view this tutorial in-order or by-topic. We've put those
-links in two folders:
+We've created links to view this tutorial in-order. We've put those
+links in the folder:
 
-in-order/
-by-topic/
+.in-order/
 
 Let's go to the in-order direcory, confirm we're in the right place, then
 view the contents of the directory.
@@ -51,7 +50,7 @@ up to the parent directory. Typing \`cd\` by itself will go to our home
 directory.
 
 To start, type:
-$ cd in-order
+$ cd .in-order
 EOL
 
 read -e -p "$ " cmd
@@ -62,7 +61,7 @@ cat << EOL
 -------------------------------------------------------------------------------
 
 Now, let's confirm we're in the right place. We should be in:
-$HOME/bash/in-order
+$HOME/python-crash-course/bash/.in-order
 
 Type:
 $ pwd
