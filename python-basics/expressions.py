@@ -113,7 +113,7 @@ assert x == 30
 # Python also has the logical operators and, or, not
 
 x = True
-assert not x
+assert x
 
 x = True and False
 assert not x
@@ -241,6 +241,7 @@ print "I've lived in the cities of", city
 #   but Python also provides a ternary conditional operator
 #   like ?: in C and C++
 
+x = 20
 x = 'new york' if x > 10 else 'newark'
 assert x == 'new york'
 
