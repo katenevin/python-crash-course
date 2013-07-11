@@ -7,6 +7,7 @@ if [[ $carmen == './Illinois/Tamms/Carmen Sandiego'
    && $stash == './Texas/San Antonio/secret-stash' ]]; then
 	echo "You did it!"
 else
+	echo "TODO:"
 	if [[ $carmen != './Illinois/Tamms/Carmen Sandiego' ]]; then
 	cat << EOL
 1. find the file named \`Carmen Sandiago' using \`find -name'
