@@ -8,8 +8,8 @@ def sum_divisible(n):
 	print vector
 	total = 0
 	for number in vector:
-		if number % 3 == 0 or numbers % 5 == 0:
-			print numbers
+		if number % 3 == 0 or number % 5 == 0:
+			print number
 			total = total + number
 			print total
 		else:
