@@ -11,6 +11,7 @@ def sum_divisible(n):
 			total = total + numbers
 		else:
 			total = total
+	print total
 	pass
 
 # NOTE: this is an encoded solution
