@@ -4,8 +4,13 @@
 def sum_divisible(n):
 	''' gives the sum of all the numbers up to but not including n
 	    that are divisible by 3 or by 5 '''
-	vector = [1:1:n]
-	print vector
+	vector = range(1,n)
+	for numbers in vector:
+		total = 0
+		if numbers % 3 == 0 or numbers % 5 == 0:
+			total = total + numbers
+		else:
+			total = total
 	pass
 
 # NOTE: this is an encoded solution
