@@ -6,11 +6,12 @@ def sum_divisible(n):
 	    that are divisible by 3 or by 5 '''
 	vector = range(1,n)
 	print vector
-	for numbers in vector:
-		total = 0
-		if numbers % 3 == 0 or numbers % 5 == 0:
+	total = 0
+	for number in vector:
+		if number % 3 == 0 or numbers % 5 == 0:
 			print numbers
-			total = total + numbers
+			total = total + number
+			print total
 		else:
 			total = total
 	print total
